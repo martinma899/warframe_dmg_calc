@@ -1,0 +1,14 @@
+--> Mandatory Mods <--
+
+           Hornet_Strike   BD   +2.20  
+                    Maim  slash +1.20
+           Heated_Charge  heat  +0.90
+              Convulsion  electricity +0.90
+
+--> Flexible Mods <--
+
+--> Excluded Mods <--
+
+--> Comments <--
+
+a special mod selection intended to test out the IPS modifier feature of mod_weapon

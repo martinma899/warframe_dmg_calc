@@ -1,0 +1,44 @@
+--> Mandatory Mods <--
+
+           Hornet_Strike   DM  +2.20  
+       Elemental_Sixty_1   EM  +0.60 
+       Elemental_Sixty_2   EM  +0.60
+
+--> Flexible Mods <--
+ 
+        Barrel_Diffusion   MM  +1.20 
+          Lethal_Torrent   MM  +0.60   FRM  +0.60 
+      Elemental_Ninety_1   EM  +0.90 
+    Primed_Pistol_Gambit  CCM  +1.53 
+   Primed_Target_Cracker  CMM  +0.90 
+        Primed_Expel_Mod  FDM  +0.45 
+          Anemic_Agility   DM  -0.15   FRM  +0.90 
+               Quickdraw RLSM  +0.48 
+                    Maim   SM  +1.20
+
+--> Excluded Mods <--
+
+            Magnum_Force   DM  +1.35
+              Augur_Pact   DM  +0.90 
+               Expel_Mod  FDM  +0.30 
+      Elemental_Ninety_2   EM  +0.90 
+      Elemental_Ninety_3   EM  +0.90 
+      Primed_Elemental_1   EM  +1.35 
+      Primed_Elemental_2   EM  +1.35 
+        Primed_Quickdraw RLSM  +0.72 
+    Primed_Slip_Magazine   mM  +0.45 
+       Creeping_Bullseye  FRM  -0.36   CCM  +0.48 
+    Hydrhaulic_Crosshair  CCM  +1.35 
+       Sharpened_Bullets  CMM  +0.75 
+               Ice_Storm   EM  +0.40    mM  +0.40 
+                  Pummel   IM  +1.20
+                    Bore   PM  +1.20
+            Hollow_Point   DM  -0.15   CMM  +0.60 
+          Stunning_Speed RLSM  +0.40 
+            Tainted_Clip RLSM  -0.30    mM  +0.60 
+           Slip_Magazine   mM  +0.30 
+              Gunslinger  FRM  +0.72 
+
+--> Comments <--
+
+anti-grineer 60-60 corrosive build optimization

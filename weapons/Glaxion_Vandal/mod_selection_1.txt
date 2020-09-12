@@ -1,0 +1,41 @@
+--> Mandatory Mods <--
+               Serration   DM  +1.65 
+       Elemental_Sixty_1   EM  +0.60 
+       Elemental_Sixty_2   EM  +0.60 
+
+--> Flexible Mods <--
+
+           Split_Chamber   MM  +0.90
+           Heavy_Caliber   DM  +1.50 
+            Point_Strike  CCM  +1.50 
+             Vital_Sense  CMM  +1.20 
+         Primed_Bane_Mod  FDM  +0.45 
+     Vigilante_Armaments   MM  +0.60 
+      Elemental_Ninety_1   EM  +0.90 
+      Elemental_Ninety_2   EM  +0.90  
+              Fast_Hands RLSM  +0.30 
+             Hammer_Shot  CMM  +0.60 
+           Magazine_Warp   mM  +0.30 
+                   Shred  FRM  +0.30 
+           Speed_Trigger  FRM  +0.60 
+       Vile_Acceleration   DM  -0.15   FRM  +0.90 
+          Critical_Delay  FRM  -0.36   CCM  +0.48 
+
+--> Excluded Mods <--
+
+             Argon_Scope  CCM  +1.35 
+           Bladed_Rounds  CMM  +1.20 
+      Elemental_Ninety_3   EM  +0.90 
+                Bane_Mod   DM  +0.30 
+       Primed_Fast_Hands RLSM  +0.55 
+            Primed_Shred  FRM  +0.55 
+                Wildfire   EM  +0.60    mM  +0.20 
+            Crash_Course   IM  +1.20 
+        Piercing_Caliber   PM  +1.20 
+         Fanged_Fusilade   SM  +1.20 
+      Primed_Cryo_Rounds   EM  +1.65
+
+--> Comments <--
+
+ban primed cryo
+dual 60-60 elemental corrosive build

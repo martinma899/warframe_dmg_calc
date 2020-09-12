@@ -1,0 +1,42 @@
+--> Mandatory Mods <--
+
+       Scattered_Justice   MM  +2.00
+      Primed_Elemental_1   EM  +1.35
+      Elemental_Ninety_1   EM  +0.90
+
+--> Flexible Mods <--
+
+      Primed_Point_Blank   DM  +1.35
+          Hell's_Chamber   MM  +1.20
+     Vigilante_Armaments   MM  +0.60
+             Blunderbuss  CCM  +0.90
+           Primed_Ravage  CMM  +0.90
+           Breach_Loader   PM  +1.20
+             Cleanse_Mod  FDM  +0.30
+           Shotgun_Spazz  FRM  +0.90
+           Tactical_Pump RLSM  +0.30
+         Chilling_Reload   EM  +0.60 RLSM  +0.40
+       Burdened_Magazine   mM  +0.60 RLSM  -0.18
+   Critical_Deceleration  CCM  +0.80  FRM  -0.30
+
+--> Excluded Mods <--
+
+             Point_Blank   DM  +0.90
+                  Ravage  CMM  +0.60
+          Vicious_Spread   DM  +0.90
+      Sweeping_Serration   SM  +1.20
+            Full_Contact   IM  +1.20
+             Laser_Sight  CCM  +1.20
+           Shrapnel_Shot  CMM  +0.99
+                   Blaze   DM  +0.60   EM  +0.60
+          Frail_Momentum  FRM  +0.90   DM  -0.15
+      Elemental_Ninety_3   EM  +0.90
+       Elemental_Sixty_2   EM  +0.60
+       Elemental_Sixty_1   EM  +0.60
+      Elemental_Ninety_2   EM  +0.90
+              Ammo_Stock   mM  +0.60
+       Accelerated_Blast   PM  +0.60  FRM  +0.60
+
+--> Comments <--
+
+anti-corpus magnetic

@@ -1,0 +1,1 @@
+rmpath(weapon_path);

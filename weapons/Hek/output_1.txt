@@ -1,0 +1,4183 @@
+--> Mandatory Mods <--
+
+ 1       Scattered_Justice   MM  +2.00 
+ 2       Elemental_Sixty_2   EM  +0.60 
+ 3       Elemental_Sixty_1   EM  +0.60 
+
+--> Flexible Mods <--
+
+ 4      Primed_Point_Blank   DM  +1.35 
+ 5          Hell's_Chamber   MM  +1.20 
+ 6     Vigilante_Armaments   MM  +0.60 
+ 7             Blunderbuss  CCM  +0.90 
+ 8           Primed_Ravage  CMM  +0.90 
+ 9      Primed_Elemental_1   EM  +1.35 
+10      Elemental_Ninety_1   EM  +0.90 
+11      Elemental_Ninety_2   EM  +0.90 
+12           Breach_Loader   PM  +1.20 
+13             Cleanse_Mod  FDM  +0.30 
+14           Shotgun_Spazz  FRM  +0.90 
+15           Tactical_Pump RLSM  +0.30 
+16              Ammo_Stock   mM  +0.60 
+17       Accelerated_Blast   PM  +0.60   FRM  +0.60 
+18       Burdened_Magazine RLSM  -0.18    mM  +0.60 
+19   Critical_Deceleration  FRM  -0.30   CCM  +0.80 
+
+--> Excluded Mods <--
+
+20             Point_Blank   DM  +0.90 
+21                  Ravage  CMM  +0.60 
+22          Vicious_Spread   DM  +0.90 
+23      Sweeping_Serration   SM  +1.20 
+24            Full_Contact   IM  +1.20 
+25             Laser_Sight  CCM  +1.20 
+26           Shrapnel_Shot  CMM  +0.99 
+27                   Blaze   DM  +0.60    EM  +0.60 
+28         Chilling_Reload   EM  +0.60  RLSM  +0.40 
+29          Frail_Momentum   DM  -0.15   FRM  +0.90 
+30      Elemental_Ninety_3   EM  +0.90 
+
+--> Comments <--
+
+anti-grineer charged shell + toxic barrage corrosive build
+
+--> Build Ranking #1 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+               Cleanse_Mod
+         Accelerated_Blast
+
+Average DPS:   37026.12
+  Burst DPS:  101303.47
+avg DPS as percent of top build: 100.00%
+
+--> Build Ranking #2 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   36121.33
+  Burst DPS:   77925.75
+avg DPS as percent of top build: 97.56%
+
+--> Build Ranking #3 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+               Cleanse_Mod
+             Shotgun_Spazz
+
+Average DPS:   35404.29
+  Burst DPS:  108390.22
+avg DPS as percent of top build: 95.62%
+
+--> Build Ranking #4 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+             Shotgun_Spazz
+                Ammo_Stock
+
+Average DPS:   35116.00
+  Burst DPS:   83377.09
+avg DPS as percent of top build: 94.84%
+
+--> Build Ranking #5 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+        Elemental_Ninety_2
+         Accelerated_Blast
+
+Average DPS:   34987.59
+  Burst DPS:   95726.05
+avg DPS as percent of top build: 94.49%
+
+--> Build Ranking #6 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+        Elemental_Ninety_2
+               Cleanse_Mod
+
+Average DPS:   34297.47
+  Burst DPS:   71510.23
+avg DPS as percent of top build: 92.63%
+
+--> Build Ranking #7 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+        Elemental_Ninety_2
+             Shotgun_Spazz
+
+Average DPS:   34138.48
+  Burst DPS:  104514.95
+avg DPS as percent of top build: 92.20%
+
+--> Build Ranking #8 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+             Breach_Loader
+         Accelerated_Blast
+
+Average DPS:   34120.13
+  Burst DPS:   93352.68
+avg DPS as percent of top build: 92.15%
+
+--> Build Ranking #9 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+               Cleanse_Mod
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   33541.24
+  Burst DPS:   72359.62
+avg DPS as percent of top build: 90.59%
+
+--> Build Ranking #10 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+             Breach_Loader
+               Cleanse_Mod
+
+Average DPS:   33372.59
+  Burst DPS:   69581.86
+avg DPS as percent of top build: 90.13%
+
+--> Build Ranking #11 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+             Tactical_Pump
+         Accelerated_Blast
+
+Average DPS:   33367.42
+  Burst DPS:   77925.75
+avg DPS as percent of top build: 90.12%
+
+--> Build Ranking #12 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+             Breach_Loader
+             Shotgun_Spazz
+
+Average DPS:   33217.89
+  Burst DPS:  101696.56
+avg DPS as percent of top build: 89.71%
+
+--> Build Ranking #13 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+        Primed_Elemental_1
+         Accelerated_Blast
+
+Average DPS:   33142.26
+  Burst DPS:   90677.24
+avg DPS as percent of top build: 89.51%
+
+--> Build Ranking #14 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+               Cleanse_Mod
+                Ammo_Stock
+
+Average DPS:   33102.99
+  Burst DPS:   57047.48
+avg DPS as percent of top build: 89.40%
+
+--> Build Ranking #15 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_2
+               Cleanse_Mod
+         Accelerated_Blast
+
+Average DPS:   32797.25
+  Burst DPS:   89733.28
+avg DPS as percent of top build: 88.58%
+
+--> Build Ranking #16 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+             Shotgun_Spazz
+         Accelerated_Blast
+
+Average DPS:   32797.03
+  Burst DPS:  121758.98
+avg DPS as percent of top build: 88.58%
+
+--> Build Ranking #17 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+               Cleanse_Mod
+             Shotgun_Spazz
+                Ammo_Stock
+
+Average DPS:   32607.72
+  Burst DPS:   77421.58
+avg DPS as percent of top build: 88.07%
+
+--> Build Ranking #18 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+        Primed_Elemental_1
+         Accelerated_Blast
+
+Average DPS:   32550.44
+  Burst DPS:   89058.00
+avg DPS as percent of top build: 87.91%
+
+--> Build Ranking #19 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+        Elemental_Ninety_2
+               Cleanse_Mod
+         Accelerated_Blast
+
+Average DPS:   32488.48
+  Burst DPS:   88888.47
+avg DPS as percent of top build: 87.74%
+
+--> Build Ranking #20 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+         Accelerated_Blast
+         Burdened_Magazine
+
+Average DPS:   32315.80
+  Burst DPS:   77925.75
+avg DPS as percent of top build: 87.28%
+
+--> Build Ranking #21 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+             Shotgun_Spazz
+             Tactical_Pump
+
+Average DPS:   32244.60
+  Burst DPS:   83377.09
+avg DPS as percent of top build: 87.09%
+
+--> Build Ranking #22 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_2
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   31995.80
+  Burst DPS:   69025.60
+avg DPS as percent of top build: 86.41%
+
+--> Build Ranking #23 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+        Elemental_Ninety_2
+                Ammo_Stock
+
+Average DPS:   31919.46
+  Burst DPS:   55007.87
+avg DPS as percent of top build: 86.21%
+
+--> Build Ranking #24 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+        Primed_Elemental_1
+               Cleanse_Mod
+
+Average DPS:   31838.14
+  Burst DPS:   66382.53
+avg DPS as percent of top build: 85.99%
+
+--> Build Ranking #25 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Primed_Elemental_1
+               Cleanse_Mod
+         Accelerated_Blast
+
+Average DPS:   31736.68
+  Burst DPS:   86831.55
+avg DPS as percent of top build: 85.71%
+
+--> Build Ranking #26 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+         Accelerated_Blast
+
+Average DPS:   31734.61
+  Burst DPS:   86825.90
+avg DPS as percent of top build: 85.71%
+
+--> Build Ranking #27 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+
+Average DPS:   31718.49
+  Burst DPS:   66133.05
+avg DPS as percent of top build: 85.67%
+
+--> Build Ranking #28 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+        Elemental_Ninety_2
+               Cleanse_Mod
+             Shotgun_Spazz
+
+Average DPS:   31700.01
+  Burst DPS:   97049.59
+avg DPS as percent of top build: 85.62%
+
+--> Build Ranking #29 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+        Elemental_Ninety_2
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   31694.57
+  Burst DPS:   68375.75
+avg DPS as percent of top build: 85.60%
+
+--> Build Ranking #30 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+        Primed_Elemental_1
+             Shotgun_Spazz
+
+Average DPS:   31690.55
+  Burst DPS:   97020.62
+avg DPS as percent of top build: 85.59%
+
+--> Build Ranking #31 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+             Breach_Loader
+               Cleanse_Mod
+         Accelerated_Blast
+
+Average DPS:   31682.98
+  Burst DPS:   86684.63
+avg DPS as percent of top build: 85.57%
+
+--> Build Ranking #32 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Breach_Loader
+               Cleanse_Mod
+         Accelerated_Blast
+
+Average DPS:   31669.55
+  Burst DPS:   86647.90
+avg DPS as percent of top build: 85.53%
+
+--> Build Ranking #33 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+        Elemental_Ninety_2
+             Shotgun_Spazz
+                Ammo_Stock
+
+Average DPS:   31441.89
+  Burst DPS:   74653.53
+avg DPS as percent of top build: 84.92%
+
+--> Build Ranking #34 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+        Primed_Elemental_1
+               Cleanse_Mod
+
+Average DPS:   31269.60
+  Burst DPS:   65197.12
+avg DPS as percent of top build: 84.45%
+
+--> Build Ranking #35 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+             Shotgun_Spazz
+         Burdened_Magazine
+
+Average DPS:   31157.17
+  Burst DPS:   83377.09
+avg DPS as percent of top build: 84.15%
+
+--> Build Ranking #36 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+        Primed_Elemental_1
+             Shotgun_Spazz
+
+Average DPS:   31124.65
+  Burst DPS:   95288.10
+avg DPS as percent of top build: 84.06%
+
+--> Build Ranking #37 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+               Cleanse_Mod
+             Tactical_Pump
+
+Average DPS:   31095.06
+  Burst DPS:   57047.48
+avg DPS as percent of top build: 83.98%
+
+--> Build Ranking #38 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+             Breach_Loader
+                Ammo_Stock
+
+Average DPS:   31058.71
+  Burst DPS:   53524.51
+avg DPS as percent of top build: 83.88%
+
+--> Build Ranking #39 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+        Elemental_Ninety_2
+             Breach_Loader
+
+Average DPS:   31007.05
+  Burst DPS:   64649.69
+avg DPS as percent of top build: 83.74%
+
+--> Build Ranking #40 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+               Cleanse_Mod
+             Tactical_Pump
+         Accelerated_Blast
+
+Average DPS:   30984.03
+  Burst DPS:   72359.62
+avg DPS as percent of top build: 83.68%
+
+--> Build Ranking #41 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+             Shotgun_Spazz
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   30968.80
+  Burst DPS:   86970.70
+avg DPS as percent of top build: 83.64%
+
+--> Build Ranking #42 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Primed_Elemental_1
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   30961.14
+  Burst DPS:   66793.50
+avg DPS as percent of top build: 83.62%
+
+--> Build Ranking #43 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_2
+               Cleanse_Mod
+             Shotgun_Spazz
+
+Average DPS:   30916.42
+  Burst DPS:   94650.61
+avg DPS as percent of top build: 83.50%
+
+--> Build Ranking #44 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+             Breach_Loader
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   30908.75
+  Burst DPS:   66680.48
+avg DPS as percent of top build: 83.48%
+
+--> Build Ranking #45 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Breach_Loader
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   30895.66
+  Burst DPS:   66652.23
+avg DPS as percent of top build: 83.44%
+
+--> Build Ranking #46 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Cleanse_Mod
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   30868.15
+  Burst DPS:   66592.89
+avg DPS as percent of top build: 83.37%
+
+--> Build Ranking #47 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_2
+             Breach_Loader
+         Accelerated_Blast
+
+Average DPS:   30867.15
+  Burst DPS:   84452.53
+avg DPS as percent of top build: 83.37%
+
+--> Build Ranking #48 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+             Breach_Loader
+               Cleanse_Mod
+             Shotgun_Spazz
+
+Average DPS:   30845.18
+  Burst DPS:   94432.52
+avg DPS as percent of top build: 83.31%
+
+--> Build Ranking #49 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+               Cleanse_Mod
+
+Average DPS:   30829.19
+  Burst DPS:   64278.85
+avg DPS as percent of top build: 83.26%
+
+--> Build Ranking #50 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Blunderbuss
+        Primed_Elemental_1
+         Accelerated_Blast
+
+Average DPS:   30811.95
+  Burst DPS:   84301.49
+avg DPS as percent of top build: 83.22%
+
+--> Build Ranking #51 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Primed_Ravage
+        Primed_Elemental_1
+               Cleanse_Mod
+         Accelerated_Blast
+
+Average DPS:   30774.96
+  Burst DPS:   84200.29
+avg DPS as percent of top build: 83.12%
+
+--> Build Ranking #52 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+        Primed_Elemental_1
+        Elemental_Ninety_2
+
+Average DPS:   30699.83
+  Burst DPS:   64009.15
+avg DPS as percent of top build: 82.91%
+
+--> Build Ranking #53 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+             Shotgun_Spazz
+
+Average DPS:   30686.27
+  Burst DPS:   93946.02
+avg DPS as percent of top build: 82.88%
+
+--> Build Ranking #54 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_2
+             Shotgun_Spazz
+                Ammo_Stock
+
+Average DPS:   30664.68
+  Burst DPS:   72808.16
+avg DPS as percent of top build: 82.82%
+
+--> Build Ranking #55 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+             Breach_Loader
+             Shotgun_Spazz
+                Ammo_Stock
+
+Average DPS:   30594.02
+  Burst DPS:   72640.40
+avg DPS as percent of top build: 82.63%
+
+--> Build Ranking #56 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+               Cleanse_Mod
+             Shotgun_Spazz
+         Accelerated_Blast
+
+Average DPS:   30454.39
+  Burst DPS:  113061.91
+avg DPS as percent of top build: 82.25%
+
+--> Build Ranking #57 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Primed_Elemental_1
+               Cleanse_Mod
+             Shotgun_Spazz
+
+Average DPS:   30346.53
+  Burst DPS:   92905.90
+avg DPS as percent of top build: 81.96%
+
+--> Build Ranking #58 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+               Cleanse_Mod
+         Burdened_Magazine
+
+Average DPS:   30310.33
+  Burst DPS:   57047.48
+avg DPS as percent of top build: 81.86%
+
+--> Build Ranking #59 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+        Primed_Elemental_1
+        Elemental_Ninety_2
+
+Average DPS:   30151.62
+  Burst DPS:   62866.13
+avg DPS as percent of top build: 81.43%
+
+--> Build Ranking #60 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Primed_Elemental_1
+             Shotgun_Spazz
+                Ammo_Stock
+
+Average DPS:   30099.43
+  Burst DPS:   71466.08
+avg DPS as percent of top build: 81.29%
+
+--> Build Ranking #61 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Primed_Ravage
+        Primed_Elemental_1
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   30022.92
+  Burst DPS:   64769.45
+avg DPS as percent of top build: 81.09%
+
+--> Build Ranking #62 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+               Cleanse_Mod
+         Accelerated_Blast
+         Burdened_Magazine
+
+Average DPS:   30007.53
+  Burst DPS:   72359.62
+avg DPS as percent of top build: 81.04%
+
+--> Build Ranking #63 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Primed_Elemental_1
+        Elemental_Ninety_2
+         Accelerated_Blast
+
+Average DPS:   29989.36
+  Burst DPS:   82050.90
+avg DPS as percent of top build: 81.00%
+
+--> Build Ranking #64 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+        Elemental_Ninety_2
+             Tactical_Pump
+
+Average DPS:   29983.32
+  Burst DPS:   55007.87
+avg DPS as percent of top build: 80.98%
+
+--> Build Ranking #65 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+               Cleanse_Mod
+             Shotgun_Spazz
+             Tactical_Pump
+
+Average DPS:   29941.41
+  Burst DPS:   77421.58
+avg DPS as percent of top build: 80.87%
+
+--> Build Ranking #66 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_2
+             Breach_Loader
+               Cleanse_Mod
+
+Average DPS:   29904.31
+  Burst DPS:   62350.49
+avg DPS as percent of top build: 80.77%
+
+--> Build Ranking #67 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+        Primed_Elemental_1
+             Breach_Loader
+
+Average DPS:   29871.97
+  Burst DPS:   62283.06
+avg DPS as percent of top build: 80.68%
+
+--> Build Ranking #68 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_2
+             Breach_Loader
+             Shotgun_Spazz
+
+Average DPS:   29765.68
+  Burst DPS:   91127.64
+avg DPS as percent of top build: 80.39%
+
+--> Build Ranking #69 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Breach_Loader
+               Cleanse_Mod
+             Shotgun_Spazz
+
+Average DPS:   29719.65
+  Burst DPS:   90986.72
+avg DPS as percent of top build: 80.27%
+
+--> Build Ranking #70 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_2
+               Cleanse_Mod
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   29710.38
+  Burst DPS:   64095.20
+avg DPS as percent of top build: 80.24%
+
+--> Build Ranking #71 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+        Elemental_Ninety_2
+               Cleanse_Mod
+                Ammo_Stock
+
+Average DPS:   29639.50
+  Burst DPS:   51078.73
+avg DPS as percent of top build: 80.05%
+
+--> Build Ranking #72 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+         Accelerated_Blast
+
+Average DPS:   29638.25
+  Burst DPS:   81090.25
+avg DPS as percent of top build: 80.05%
+
+--> Build Ranking #73 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+        Primed_Elemental_1
+                Ammo_Stock
+
+Average DPS:   29630.65
+  Burst DPS:   51063.48
+avg DPS as percent of top build: 80.03%
+
+--> Build Ranking #74 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Blunderbuss
+        Primed_Elemental_1
+               Cleanse_Mod
+
+Average DPS:   29599.52
+  Burst DPS:   61715.00
+avg DPS as percent of top build: 79.94%
+
+--> Build Ranking #75 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_2
+             Tactical_Pump
+         Accelerated_Blast
+
+Average DPS:   29556.42
+  Burst DPS:   69025.60
+avg DPS as percent of top build: 79.83%
+
+--> Build Ranking #76 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Breach_Loader
+             Shotgun_Spazz
+                Ammo_Stock
+
+Average DPS:   29477.66
+  Burst DPS:   69989.78
+avg DPS as percent of top build: 79.61%
+
+--> Build Ranking #77 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+               Cleanse_Mod
+         Accelerated_Blast
+
+Average DPS:   29467.85
+  Burst DPS:   80624.05
+avg DPS as percent of top build: 79.59%
+
+--> Build Ranking #78 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Blunderbuss
+        Primed_Elemental_1
+             Shotgun_Spazz
+
+Average DPS:   29462.31
+  Burst DPS:   90198.85
+avg DPS as percent of top build: 79.57%
+
+--> Build Ranking #79 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+               Cleanse_Mod
+
+Average DPS:   29452.88
+  Burst DPS:   61409.26
+avg DPS as percent of top build: 79.55%
+
+--> Build Ranking #80 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+             Tactical_Pump
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   29446.40
+  Burst DPS:   55661.25
+avg DPS as percent of top build: 79.53%
+
+--> Build Ranking #81 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Primed_Ravage
+        Primed_Elemental_1
+               Cleanse_Mod
+             Shotgun_Spazz
+
+Average DPS:   29426.94
+  Burst DPS:   90090.57
+avg DPS as percent of top build: 79.48%
+
+--> Build Ranking #82 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Primed_Elemental_1
+        Elemental_Ninety_2
+               Cleanse_Mod
+
+Average DPS:   29397.83
+  Burst DPS:   61294.48
+avg DPS as percent of top build: 79.40%
+
+--> Build Ranking #83 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+        Elemental_Ninety_2
+         Accelerated_Blast
+
+Average DPS:   29356.98
+  Burst DPS:   80320.70
+avg DPS as percent of top build: 79.29%
+
+--> Build Ranking #84 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+        Primed_Elemental_1
+             Breach_Loader
+
+Average DPS:   29338.54
+  Burst DPS:   61170.87
+avg DPS as percent of top build: 79.24%
+
+--> Build Ranking #85 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+             Shotgun_Spazz
+
+Average DPS:   29316.35
+  Burst DPS:   89752.00
+avg DPS as percent of top build: 79.18%
+
+--> Build Ranking #86 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Blunderbuss
+             Primed_Ravage
+        Primed_Elemental_1
+
+Average DPS:   29312.52
+  Burst DPS:   61116.60
+avg DPS as percent of top build: 79.17%
+
+--> Build Ranking #87 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+        Elemental_Ninety_2
+             Tactical_Pump
+         Accelerated_Blast
+
+Average DPS:   29278.15
+  Burst DPS:   68375.75
+avg DPS as percent of top build: 79.07%
+
+--> Build Ranking #88 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Primed_Elemental_1
+        Elemental_Ninety_2
+             Shotgun_Spazz
+
+Average DPS:   29261.55
+  Burst DPS:   89584.24
+avg DPS as percent of top build: 79.03%
+
+--> Build Ranking #89 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Primed_Elemental_1
+             Breach_Loader
+         Accelerated_Blast
+
+Average DPS:   29245.83
+  Burst DPS:   80016.58
+avg DPS as percent of top build: 78.99%
+
+--> Build Ranking #90 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+        Elemental_Ninety_2
+         Burdened_Magazine
+
+Average DPS:   29226.64
+  Burst DPS:   55007.87
+avg DPS as percent of top build: 78.94%
+
+--> Build Ranking #91 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Primed_Ravage
+        Primed_Elemental_1
+             Shotgun_Spazz
+                Ammo_Stock
+
+Average DPS:   29187.33
+  Burst DPS:   69300.44
+avg DPS as percent of top build: 78.83%
+
+--> Build Ranking #92 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+             Breach_Loader
+             Tactical_Pump
+
+Average DPS:   29174.78
+  Burst DPS:   53524.51
+avg DPS as percent of top build: 78.80%
+
+--> Build Ranking #93 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+        Primed_Elemental_1
+                Ammo_Stock
+
+Average DPS:   29101.53
+  Burst DPS:   50151.63
+avg DPS as percent of top build: 78.60%
+
+--> Build Ranking #94 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Primed_Ravage
+        Primed_Elemental_1
+        Elemental_Ninety_2
+         Accelerated_Blast
+
+Average DPS:   29080.59
+  Burst DPS:   79564.51
+avg DPS as percent of top build: 78.54%
+
+--> Build Ranking #95 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_2
+             Shotgun_Spazz
+         Accelerated_Blast
+
+Average DPS:   29051.18
+  Burst DPS:  107852.50
+avg DPS as percent of top build: 78.46%
+
+--> Build Ranking #96 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+        Elemental_Ninety_2
+             Breach_Loader
+         Accelerated_Blast
+
+Average DPS:   29018.63
+  Burst DPS:   79394.98
+avg DPS as percent of top build: 78.37%
+
+--> Build Ranking #97 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+             Shotgun_Spazz
+             Tactical_Pump
+                Ammo_Stock
+
+Average DPS:   28949.86
+  Burst DPS:   59555.07
+avg DPS as percent of top build: 78.19%
+
+--> Build Ranking #98 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+               Cleanse_Mod
+             Shotgun_Spazz
+         Burdened_Magazine
+
+Average DPS:   28931.66
+  Burst DPS:   77421.58
+avg DPS as percent of top build: 78.14%
+
+--> Build Ranking #99 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_2
+               Cleanse_Mod
+                Ammo_Stock
+
+Average DPS:   28906.84
+  Burst DPS:   49816.11
+avg DPS as percent of top build: 78.07%
+
+--> Build Ranking #100 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+        Elemental_Ninety_2
+             Shotgun_Spazz
+             Tactical_Pump
+
+Average DPS:   28870.92
+  Burst DPS:   74653.53
+avg DPS as percent of top build: 77.97%
+
+--> Build Ranking #101 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+             Breach_Loader
+               Cleanse_Mod
+                Ammo_Stock
+
+Average DPS:   28840.23
+  Burst DPS:   49701.33
+avg DPS as percent of top build: 77.89%
+
+--> Build Ranking #102 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+        Elemental_Ninety_2
+         Accelerated_Blast
+
+Average DPS:   28832.75
+  Burst DPS:   78886.40
+avg DPS as percent of top build: 77.87%
+
+--> Build Ranking #103 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+        Elemental_Ninety_2
+             Breach_Loader
+               Cleanse_Mod
+
+Average DPS:   28792.26
+  Burst DPS:   60031.86
+avg DPS as percent of top build: 77.76%
+
+--> Build Ranking #104 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+        Elemental_Ninety_2
+             Shotgun_Spazz
+         Accelerated_Blast
+
+Average DPS:   28777.67
+  Burst DPS:  106837.11
+avg DPS as percent of top build: 77.72%
+
+--> Build Ranking #105 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   28747.76
+  Burst DPS:   62018.50
+avg DPS as percent of top build: 77.64%
+
+--> Build Ranking #106 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+                Ammo_Stock
+
+Average DPS:   28691.65
+  Burst DPS:   49445.27
+avg DPS as percent of top build: 77.49%
+
+--> Build Ranking #107 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Breach_Loader
+               Cleanse_Mod
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   28688.82
+  Burst DPS:   61891.35
+avg DPS as percent of top build: 77.48%
+
+--> Build Ranking #108 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+                Ammo_Stock
+         Accelerated_Blast
+         Burdened_Magazine
+
+Average DPS:   28677.75
+  Burst DPS:   55661.25
+avg DPS as percent of top build: 77.45%
+
+--> Build Ranking #109 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_2
+             Breach_Loader
+               Cleanse_Mod
+         Accelerated_Blast
+
+Average DPS:   28662.35
+  Burst DPS:   78420.20
+avg DPS as percent of top build: 77.41%
+
+--> Build Ranking #110 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+        Elemental_Ninety_2
+             Breach_Loader
+             Shotgun_Spazz
+
+Average DPS:   28658.79
+  Burst DPS:   87738.87
+avg DPS as percent of top build: 77.40%
+
+--> Build Ranking #111 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_2
+         Accelerated_Blast
+         Burdened_Magazine
+
+Average DPS:   28624.91
+  Burst DPS:   69025.60
+avg DPS as percent of top build: 77.31%
+
+--> Build Ranking #112 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+               Blunderbuss
+        Primed_Elemental_1
+               Cleanse_Mod
+         Accelerated_Blast
+
+Average DPS:   28611.10
+  Burst DPS:   78279.96
+avg DPS as percent of top build: 77.27%
+
+--> Build Ranking #113 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Primed_Elemental_1
+             Breach_Loader
+               Cleanse_Mod
+
+Average DPS:   28605.08
+  Burst DPS:   59641.59
+avg DPS as percent of top build: 77.26%
+
+--> Build Ranking #114 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Primed_Elemental_1
+             Tactical_Pump
+         Accelerated_Blast
+
+Average DPS:   28600.64
+  Burst DPS:   66793.50
+avg DPS as percent of top build: 77.24%
+
+--> Build Ranking #115 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+             Breach_Loader
+             Tactical_Pump
+         Accelerated_Blast
+
+Average DPS:   28552.25
+  Burst DPS:   66680.48
+avg DPS as percent of top build: 77.11%
+
+--> Build Ranking #116 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Blunderbuss
+        Primed_Elemental_1
+        Elemental_Ninety_2
+
+Average DPS:   28541.25
+  Burst DPS:   59508.51
+avg DPS as percent of top build: 77.08%
+
+--> Build Ranking #117 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Breach_Loader
+             Tactical_Pump
+         Accelerated_Blast
+
+Average DPS:   28540.15
+  Burst DPS:   66652.23
+avg DPS as percent of top build: 77.08%
+
+--> Build Ranking #118 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Cleanse_Mod
+             Tactical_Pump
+         Accelerated_Blast
+
+Average DPS:   28514.74
+  Burst DPS:   66592.89
+avg DPS as percent of top build: 77.01%
+
+--> Build Ranking #119 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Primed_Ravage
+        Primed_Elemental_1
+        Elemental_Ninety_2
+               Cleanse_Mod
+
+Average DPS:   28506.99
+  Burst DPS:   59437.07
+avg DPS as percent of top build: 76.99%
+
+--> Build Ranking #120 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Shotgun_Spazz
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   28500.72
+  Burst DPS:   80039.54
+avg DPS as percent of top build: 76.97%
+
+--> Build Ranking #121 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+               Cleanse_Mod
+             Shotgun_Spazz
+
+Average DPS:   28494.39
+  Burst DPS:   87235.59
+avg DPS as percent of top build: 76.96%
+
+--> Build Ranking #122 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_2
+               Cleanse_Mod
+             Shotgun_Spazz
+                Ammo_Stock
+
+Average DPS:   28474.34
+  Burst DPS:   67607.58
+avg DPS as percent of top build: 76.90%
+
+--> Build Ranking #123 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Primed_Elemental_1
+             Breach_Loader
+             Shotgun_Spazz
+
+Average DPS:   28472.48
+  Burst DPS:   87168.48
+avg DPS as percent of top build: 76.90%
+
+--> Build Ranking #124 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+             Breach_Loader
+         Burdened_Magazine
+
+Average DPS:   28438.51
+  Burst DPS:   53524.51
+avg DPS as percent of top build: 76.81%
+
+--> Build Ranking #125 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+             Primed_Ravage
+        Primed_Elemental_1
+         Accelerated_Blast
+
+Average DPS:   28407.66
+  Burst DPS:   77723.35
+avg DPS as percent of top build: 76.72%
+
+--> Build Ranking #126 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Primed_Ravage
+        Primed_Elemental_1
+        Elemental_Ninety_2
+             Shotgun_Spazz
+
+Average DPS:   28374.84
+  Burst DPS:   86869.56
+avg DPS as percent of top build: 76.63%
+
+--> Build Ranking #127 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Primed_Elemental_1
+               Cleanse_Mod
+                Ammo_Stock
+
+Average DPS:   28373.99
+  Burst DPS:   48897.84
+avg DPS as percent of top build: 76.63%
+
+--> Build Ranking #128 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Primed_Ravage
+        Primed_Elemental_1
+             Breach_Loader
+         Accelerated_Blast
+
+Average DPS:   28359.59
+  Burst DPS:   77591.83
+avg DPS as percent of top build: 76.59%
+
+--> Build Ranking #129 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+        Elemental_Ninety_2
+         Accelerated_Blast
+         Burdened_Magazine
+
+Average DPS:   28355.42
+  Burst DPS:   68375.75
+avg DPS as percent of top build: 76.58%
+
+--> Build Ranking #130 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+             Breach_Loader
+         Accelerated_Blast
+
+Average DPS:   28347.57
+  Burst DPS:   77558.96
+avg DPS as percent of top build: 76.56%
+
+--> Build Ranking #131 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+             Breach_Loader
+
+Average DPS:   28339.14
+  Burst DPS:   59087.10
+avg DPS as percent of top build: 76.54%
+
+--> Build Ranking #132 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+               Blunderbuss
+             Primed_Ravage
+        Primed_Elemental_1
+         Accelerated_Blast
+
+Average DPS:   28333.68
+  Burst DPS:   77520.94
+avg DPS as percent of top build: 76.52%
+
+--> Build Ranking #133 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+               Cleanse_Mod
+         Accelerated_Blast
+
+Average DPS:   28322.34
+  Burst DPS:   77489.91
+avg DPS as percent of top build: 76.49%
+
+--> Build Ranking #134 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Cleanse_Mod
+             Shotgun_Spazz
+                Ammo_Stock
+
+Average DPS:   28290.64
+  Burst DPS:   67171.40
+avg DPS as percent of top build: 76.41%
+
+--> Build Ranking #135 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+             Shotgun_Spazz
+                Ammo_Stock
+
+Average DPS:   28262.37
+  Burst DPS:   67104.30
+avg DPS as percent of top build: 76.33%
+
+--> Build Ranking #136 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+             Tactical_Pump
+                Ammo_Stock
+
+Average DPS:   28194.80
+  Burst DPS:   43882.68
+avg DPS as percent of top build: 76.15%
+
+--> Build Ranking #137 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+             Shotgun_Spazz
+             Tactical_Pump
+         Accelerated_Blast
+
+Average DPS:   28177.42
+  Burst DPS:   86970.70
+avg DPS as percent of top build: 76.10%
+
+--> Build Ranking #138 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+         Accelerated_Blast
+     Critical_Deceleration
+
+Average DPS:   28176.47
+  Burst DPS:   67919.38
+avg DPS as percent of top build: 76.10%
+
+--> Build Ranking #139 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_2
+             Shotgun_Spazz
+             Tactical_Pump
+
+Average DPS:   28157.26
+  Burst DPS:   72808.16
+avg DPS as percent of top build: 76.05%
+
+--> Build Ranking #140 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+             Shotgun_Spazz
+                Ammo_Stock
+         Burdened_Magazine
+
+Average DPS:   28127.25
+  Burst DPS:   59555.07
+avg DPS as percent of top build: 75.97%
+
+--> Build Ranking #141 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Elemental_Ninety_2
+               Cleanse_Mod
+         Accelerated_Blast
+
+Average DPS:   28111.93
+  Burst DPS:   76914.24
+avg DPS as percent of top build: 75.92%
+
+--> Build Ranking #142 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Primed_Elemental_1
+             Shotgun_Spazz
+         Accelerated_Blast
+
+Average DPS:   28111.74
+  Burst DPS:  104364.84
+avg DPS as percent of top build: 75.92%
+
+--> Build Ranking #143 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+             Breach_Loader
+             Shotgun_Spazz
+             Tactical_Pump
+
+Average DPS:   28092.38
+  Burst DPS:   72640.40
+avg DPS as percent of top build: 75.87%
+
+--> Build Ranking #144 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+             Breach_Loader
+             Shotgun_Spazz
+         Accelerated_Blast
+
+Average DPS:   28064.18
+  Burst DPS:  104188.25
+avg DPS as percent of top build: 75.80%
+
+--> Build Ranking #145 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Breach_Loader
+             Shotgun_Spazz
+         Accelerated_Blast
+
+Average DPS:   28052.28
+  Burst DPS:  104144.11
+avg DPS as percent of top build: 75.76%
+
+--> Build Ranking #146 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Cleanse_Mod
+             Shotgun_Spazz
+         Accelerated_Blast
+
+Average DPS:   28027.31
+  Burst DPS:  104051.40
+avg DPS as percent of top build: 75.70%
+
+--> Build Ranking #147 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+             Primed_Ravage
+        Primed_Elemental_1
+
+Average DPS:   27989.58
+  Burst DPS:   58358.26
+avg DPS as percent of top build: 75.59%
+
+--> Build Ranking #148 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_2
+             Breach_Loader
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   27961.94
+  Burst DPS:   60323.23
+avg DPS as percent of top build: 75.52%
+
+--> Build Ranking #149 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+               Blunderbuss
+        Primed_Elemental_1
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   27911.94
+  Burst DPS:   60215.35
+avg DPS as percent of top build: 75.38%
+
+--> Build Ranking #150 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+        Elemental_Ninety_2
+             Shotgun_Spazz
+         Burdened_Magazine
+
+Average DPS:   27897.26
+  Burst DPS:   74653.53
+avg DPS as percent of top build: 75.34%
+
+--> Build Ranking #151 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+        Elemental_Ninety_2
+               Cleanse_Mod
+             Tactical_Pump
+
+Average DPS:   27841.66
+  Burst DPS:   51078.73
+avg DPS as percent of top build: 75.19%
+
+--> Build Ranking #152 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+             Breach_Loader
+         Accelerated_Blast
+
+Average DPS:   27841.36
+  Burst DPS:   76173.97
+avg DPS as percent of top build: 75.19%
+
+--> Build Ranking #153 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+        Primed_Elemental_1
+             Tactical_Pump
+
+Average DPS:   27833.34
+  Burst DPS:   51063.48
+avg DPS as percent of top build: 75.17%
+
+--> Build Ranking #154 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_2
+             Breach_Loader
+                Ammo_Stock
+
+Average DPS:   27830.90
+  Burst DPS:   47961.91
+avg DPS as percent of top build: 75.17%
+
+--> Build Ranking #155 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+               Cleanse_Mod
+         Accelerated_Blast
+
+Average DPS:   27816.58
+  Burst DPS:   76106.16
+avg DPS as percent of top build: 75.13%
+
+--> Build Ranking #156 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+        Elemental_Ninety_2
+               Cleanse_Mod
+
+Average DPS:   27802.32
+  Burst DPS:   57967.84
+avg DPS as percent of top build: 75.09%
+
+--> Build Ranking #157 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Breach_Loader
+               Cleanse_Mod
+                Ammo_Stock
+
+Average DPS:   27787.86
+  Burst DPS:   47887.75
+avg DPS as percent of top build: 75.05%
+
+--> Build Ranking #158 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Blunderbuss
+        Primed_Elemental_1
+             Breach_Loader
+
+Average DPS:   27771.60
+  Burst DPS:   57903.79
+avg DPS as percent of top build: 75.01%
+
+--> Build Ranking #159 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Primed_Ravage
+        Primed_Elemental_1
+             Breach_Loader
+               Cleanse_Mod
+
+Average DPS:   27738.26
+  Burst DPS:   57834.27
+avg DPS as percent of top build: 74.92%
+
+--> Build Ranking #160 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Primed_Ravage
+        Primed_Elemental_1
+             Tactical_Pump
+         Accelerated_Blast
+
+Average DPS:   27733.96
+  Burst DPS:   64769.45
+avg DPS as percent of top build: 74.90%
+
+--> Build Ranking #161 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Primed_Elemental_1
+         Accelerated_Blast
+         Burdened_Magazine
+
+Average DPS:   27699.26
+  Burst DPS:   66793.50
+avg DPS as percent of top build: 74.81%
+
+--> Build Ranking #162 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+        Elemental_Ninety_2
+             Shotgun_Spazz
+
+Average DPS:   27673.44
+  Burst DPS:   84722.23
+avg DPS as percent of top build: 74.74%
+
+--> Build Ranking #163 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+             Breach_Loader
+         Accelerated_Blast
+         Burdened_Magazine
+
+Average DPS:   27652.39
+  Burst DPS:   66680.48
+avg DPS as percent of top build: 74.68%
+
+--> Build Ranking #164 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Breach_Loader
+         Accelerated_Blast
+         Burdened_Magazine
+
+Average DPS:   27640.67
+  Burst DPS:   66652.23
+avg DPS as percent of top build: 74.65%
+
+--> Build Ranking #165 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_2
+             Breach_Loader
+               Cleanse_Mod
+             Shotgun_Spazz
+
+Average DPS:   27639.56
+  Burst DPS:   84618.52
+avg DPS as percent of top build: 74.65%
+
+--> Build Ranking #166 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Primed_Elemental_1
+             Shotgun_Spazz
+             Tactical_Pump
+
+Average DPS:   27638.23
+  Burst DPS:   71466.08
+avg DPS as percent of top build: 74.65%
+
+--> Build Ranking #167 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+                Ammo_Stock
+         Burdened_Magazine
+
+Average DPS:   27632.61
+  Burst DPS:   43882.68
+avg DPS as percent of top build: 74.63%
+
+--> Build Ranking #168 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   27630.23
+  Burst DPS:   59607.62
+avg DPS as percent of top build: 74.62%
+
+--> Build Ranking #169 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Cleanse_Mod
+         Accelerated_Blast
+         Burdened_Magazine
+
+Average DPS:   27616.07
+  Burst DPS:   66592.89
+avg DPS as percent of top build: 74.59%
+
+--> Build Ranking #170 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Primed_Ravage
+        Primed_Elemental_1
+             Breach_Loader
+             Shotgun_Spazz
+
+Average DPS:   27609.67
+  Burst DPS:   84527.01
+avg DPS as percent of top build: 74.57%
+
+--> Build Ranking #171 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+
+Average DPS:   27595.36
+  Burst DPS:   57536.32
+avg DPS as percent of top build: 74.53%
+
+--> Build Ranking #172 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Blunderbuss
+        Primed_Elemental_1
+                Ammo_Stock
+
+Average DPS:   27547.24
+  Burst DPS:   47473.08
+avg DPS as percent of top build: 74.40%
+
+--> Build Ranking #173 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+             Shotgun_Spazz
+     Critical_Deceleration
+
+Average DPS:   27528.74
+  Burst DPS:   75318.64
+avg DPS as percent of top build: 74.35%
+
+--> Build Ranking #174 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Primed_Ravage
+        Primed_Elemental_1
+               Cleanse_Mod
+                Ammo_Stock
+
+Average DPS:   27514.17
+  Burst DPS:   47416.09
+avg DPS as percent of top build: 74.31%
+
+--> Build Ranking #175 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_2
+               Cleanse_Mod
+             Tactical_Pump
+         Accelerated_Blast
+
+Average DPS:   27445.24
+  Burst DPS:   64095.20
+avg DPS as percent of top build: 74.12%
+
+--> Build Ranking #176 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_2
+             Shotgun_Spazz
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   27431.75
+  Burst DPS:   77037.50
+avg DPS as percent of top build: 74.09%
+
+--> Build Ranking #177 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Elemental_Ninety_2
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   27424.97
+  Burst DPS:   59164.80
+avg DPS as percent of top build: 74.07%
+
+--> Build Ranking #178 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_2
+             Breach_Loader
+             Shotgun_Spazz
+                Ammo_Stock
+
+Average DPS:   27414.50
+  Burst DPS:   65091.17
+avg DPS as percent of top build: 74.04%
+
+--> Build Ranking #179 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+                Ammo_Stock
+
+Average DPS:   27410.77
+  Burst DPS:   47237.89
+avg DPS as percent of top build: 74.03%
+
+--> Build Ranking #180 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+             Tactical_Pump
+         Accelerated_Blast
+         Burdened_Magazine
+
+Average DPS:   27374.39
+  Burst DPS:   55661.25
+avg DPS as percent of top build: 73.93%
+
+--> Build Ranking #181 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Breach_Loader
+               Cleanse_Mod
+             Shotgun_Spazz
+                Ammo_Stock
+
+Average DPS:   27372.11
+  Burst DPS:   64990.51
+avg DPS as percent of top build: 73.93%
+
+--> Build Ranking #182 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Primed_Elemental_1
+        Elemental_Ninety_2
+                Ammo_Stock
+
+Average DPS:   27359.54
+  Burst DPS:   47149.60
+avg DPS as percent of top build: 73.89%
+
+--> Build Ranking #183 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+               Blunderbuss
+        Primed_Elemental_1
+               Cleanse_Mod
+             Shotgun_Spazz
+
+Average DPS:   27357.86
+  Burst DPS:   83756.08
+avg DPS as percent of top build: 73.89%
+
+--> Build Ranking #184 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+        Primed_Elemental_1
+             Tactical_Pump
+
+Average DPS:   27336.32
+  Burst DPS:   50151.63
+avg DPS as percent of top build: 73.83%
+
+--> Build Ranking #185 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+        Elemental_Ninety_2
+               Cleanse_Mod
+
+Average DPS:   27305.85
+  Burst DPS:   56932.70
+avg DPS as percent of top build: 73.75%
+
+--> Build Ranking #186 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Blunderbuss
+        Elemental_Ninety_2
+         Accelerated_Blast
+
+Average DPS:   27292.82
+  Burst DPS:   74673.15
+avg DPS as percent of top build: 73.71%
+
+--> Build Ranking #187 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+             Primed_Ravage
+        Primed_Elemental_1
+               Cleanse_Mod
+
+Average DPS:   27289.84
+  Burst DPS:   56899.31
+avg DPS as percent of top build: 73.70%
+
+--> Build Ranking #188 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Primed_Ravage
+        Elemental_Ninety_2
+               Cleanse_Mod
+         Accelerated_Blast
+
+Average DPS:   27260.05
+  Burst DPS:   74583.51
+avg DPS as percent of top build: 73.62%
+
+--> Build Ranking #189 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Primed_Ravage
+        Primed_Elemental_1
+             Shotgun_Spazz
+         Accelerated_Blast
+
+Average DPS:   27259.87
+  Burst DPS:  101202.27
+avg DPS as percent of top build: 73.62%
+
+--> Build Ranking #190 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+               Blunderbuss
+             Primed_Ravage
+        Primed_Elemental_1
+               Cleanse_Mod
+
+Average DPS:   27218.77
+  Burst DPS:   56751.13
+avg DPS as percent of top build: 73.51%
+
+--> Build Ranking #191 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_2
+             Shotgun_Spazz
+         Burdened_Magazine
+
+Average DPS:   27207.67
+  Burst DPS:   72808.16
+avg DPS as percent of top build: 73.48%
+
+--> Build Ranking #192 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+         Accelerated_Blast
+
+Average DPS:   27201.10
+  Burst DPS:   74422.20
+avg DPS as percent of top build: 73.46%
+
+--> Build Ranking #193 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+
+Average DPS:   27187.28
+  Burst DPS:   56685.47
+avg DPS as percent of top build: 73.43%
+
+--> Build Ranking #194 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+        Elemental_Ninety_2
+             Shotgun_Spazz
+
+Average DPS:   27179.27
+  Burst DPS:   83209.33
+avg DPS as percent of top build: 73.41%
+
+--> Build Ranking #195 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+             Primed_Ravage
+        Primed_Elemental_1
+             Shotgun_Spazz
+
+Average DPS:   27163.33
+  Burst DPS:   83160.53
+avg DPS as percent of top build: 73.36%
+
+--> Build Ranking #196 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_2
+               Cleanse_Mod
+             Tactical_Pump
+
+Average DPS:   27153.44
+  Burst DPS:   49816.11
+avg DPS as percent of top build: 73.34%
+
+--> Build Ranking #197 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+             Breach_Loader
+               Cleanse_Mod
+         Accelerated_Blast
+
+Average DPS:   27145.33
+  Burst DPS:   74269.63
+avg DPS as percent of top build: 73.31%
+
+--> Build Ranking #198 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+             Breach_Loader
+             Shotgun_Spazz
+         Burdened_Magazine
+
+Average DPS:   27144.98
+  Burst DPS:   72640.40
+avg DPS as percent of top build: 73.31%
+
+--> Build Ranking #199 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+        Elemental_Ninety_2
+               Cleanse_Mod
+         Burdened_Magazine
+
+Average DPS:   27139.02
+  Burst DPS:   51078.73
+avg DPS as percent of top build: 73.30%
+
+--> Build Ranking #200 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   27136.84
+  Burst DPS:   58543.20
+avg DPS as percent of top build: 73.29%
+
+--> Build Ranking #201 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+               Blunderbuss
+        Primed_Elemental_1
+             Shotgun_Spazz
+                Ammo_Stock
+
+Average DPS:   27135.09
+  Burst DPS:   64427.75
+avg DPS as percent of top build: 73.29%
+
+--> Build Ranking #202 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+             Shotgun_Spazz
+         Accelerated_Blast
+         Burdened_Magazine
+
+Average DPS:   27133.54
+  Burst DPS:   86970.70
+avg DPS as percent of top build: 73.28%
+
+--> Build Ranking #203 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+        Primed_Elemental_1
+         Burdened_Magazine
+
+Average DPS:   27130.92
+  Burst DPS:   51063.48
+avg DPS as percent of top build: 73.28%
+
+--> Build Ranking #204 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+
+Average DPS:   27102.58
+  Burst DPS:   56508.88
+avg DPS as percent of top build: 73.20%
+
+--> Build Ranking #205 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Tactical_Pump
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   27099.66
+  Burst DPS:   51225.30
+avg DPS as percent of top build: 73.19%
+
+--> Build Ranking #206 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+               Blunderbuss
+             Primed_Ravage
+        Primed_Elemental_1
+             Shotgun_Spazz
+
+Average DPS:   27092.59
+  Burst DPS:   82943.96
+avg DPS as percent of top build: 73.17%
+
+--> Build Ranking #207 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+             Breach_Loader
+               Cleanse_Mod
+             Tactical_Pump
+
+Average DPS:   27090.87
+  Burst DPS:   49701.33
+avg DPS as percent of top build: 73.17%
+
+--> Build Ranking #208 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Breach_Loader
+             Shotgun_Spazz
+             Tactical_Pump
+
+Average DPS:   27067.30
+  Burst DPS:   69989.78
+avg DPS as percent of top build: 73.10%
+
+--> Build Ranking #209 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+               Blunderbuss
+        Primed_Elemental_1
+        Elemental_Ninety_2
+         Accelerated_Blast
+
+Average DPS:   27035.87
+  Burst DPS:   73970.13
+avg DPS as percent of top build: 73.02%
+
+--> Build Ranking #210 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_2
+               Cleanse_Mod
+             Shotgun_Spazz
+         Accelerated_Blast
+
+Average DPS:   26976.09
+  Burst DPS:  100148.75
+avg DPS as percent of top build: 72.86%
+
+--> Build Ranking #211 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+             Tactical_Pump
+
+Average DPS:   26951.30
+  Burst DPS:   49445.27
+avg DPS as percent of top build: 72.79%
+
+--> Build Ranking #212 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Primed_Ravage
+        Primed_Elemental_1
+         Accelerated_Blast
+         Burdened_Magazine
+
+Average DPS:   26859.89
+  Burst DPS:   64769.45
+avg DPS as percent of top build: 72.54%
+
+--> Build Ranking #213 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Primed_Ravage
+        Primed_Elemental_1
+             Shotgun_Spazz
+             Tactical_Pump
+
+Average DPS:   26800.71
+  Burst DPS:   69300.44
+avg DPS as percent of top build: 72.38%
+
+--> Build Ranking #214 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+        Elemental_Ninety_2
+             Breach_Loader
+                Ammo_Stock
+
+Average DPS:   26795.95
+  Burst DPS:   46178.35
+avg DPS as percent of top build: 72.37%
+
+--> Build Ranking #215 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+        Elemental_Ninety_2
+             Breach_Loader
+
+Average DPS:   26767.50
+  Burst DPS:   55810.23
+avg DPS as percent of top build: 72.29%
+
+--> Build Ranking #216 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+             Shotgun_Spazz
+             Tactical_Pump
+         Burdened_Magazine
+
+Average DPS:   26741.28
+  Burst DPS:   59555.07
+avg DPS as percent of top build: 72.22%
+
+--> Build Ranking #217 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+             Breach_Loader
+               Cleanse_Mod
+
+Average DPS:   26726.10
+  Burst DPS:   55723.92
+avg DPS as percent of top build: 72.18%
+
+--> Build Ranking #218 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Primed_Elemental_1
+             Shotgun_Spazz
+         Burdened_Magazine
+
+Average DPS:   26706.14
+  Burst DPS:   71466.08
+avg DPS as percent of top build: 72.13%
+
+--> Build Ranking #219 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+             Breach_Loader
+         Accelerated_Blast
+
+Average DPS:   26695.08
+  Burst DPS:   73037.73
+avg DPS as percent of top build: 72.10%
+
+--> Build Ranking #220 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Primed_Elemental_1
+             Tactical_Pump
+         Burdened_Magazine
+
+Average DPS:   26662.89
+  Burst DPS:   43882.68
+avg DPS as percent of top build: 72.01%
+
+--> Build Ranking #221 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Primed_Elemental_1
+               Cleanse_Mod
+             Tactical_Pump
+
+Average DPS:   26652.91
+  Burst DPS:   48897.84
+avg DPS as percent of top build: 71.98%
+
+--> Build Ranking #222 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+        Primed_Elemental_1
+         Burdened_Magazine
+
+Average DPS:   26646.44
+  Burst DPS:   50151.63
+avg DPS as percent of top build: 71.97%
+
+--> Build Ranking #223 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+               Cleanse_Mod
+                Ammo_Stock
+
+Average DPS:   26642.24
+  Burst DPS:   45913.47
+avg DPS as percent of top build: 71.96%
+
+--> Build Ranking #224 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Primed_Elemental_1
+             Breach_Loader
+                Ammo_Stock
+
+Average DPS:   26621.75
+  Burst DPS:   45878.15
+avg DPS as percent of top build: 71.90%
+
+--> Build Ranking #225 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+             Breach_Loader
+             Shotgun_Spazz
+
+Average DPS:   26602.21
+  Burst DPS:   81442.66
+avg DPS as percent of top build: 71.85%
+
+--> Build Ranking #226 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Primed_Ravage
+        Elemental_Ninety_2
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   26593.91
+  Burst DPS:   57371.93
+avg DPS as percent of top build: 71.82%
+
+--> Build Ranking #227 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_2
+               Cleanse_Mod
+         Accelerated_Blast
+         Burdened_Magazine
+
+Average DPS:   26580.28
+  Burst DPS:   64095.20
+avg DPS as percent of top build: 71.79%
+
+--> Build Ranking #228 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Primed_Elemental_1
+        Elemental_Ninety_2
+             Breach_Loader
+
+Average DPS:   26577.47
+  Burst DPS:   55414.02
+avg DPS as percent of top build: 71.78%
+
+--> Build Ranking #229 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+             Tactical_Pump
+         Accelerated_Blast
+
+Average DPS:   26556.01
+  Burst DPS:   62018.50
+avg DPS as percent of top build: 71.72%
+
+--> Build Ranking #230 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Primed_Ravage
+        Primed_Elemental_1
+        Elemental_Ninety_2
+                Ammo_Stock
+
+Average DPS:   26530.46
+  Burst DPS:   45720.82
+avg DPS as percent of top build: 71.65%
+
+--> Build Ranking #231 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+               Blunderbuss
+        Primed_Elemental_1
+        Elemental_Ninety_2
+               Cleanse_Mod
+
+Average DPS:   26502.59
+  Burst DPS:   55257.90
+avg DPS as percent of top build: 71.58%
+
+--> Build Ranking #232 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Breach_Loader
+               Cleanse_Mod
+             Tactical_Pump
+         Accelerated_Blast
+
+Average DPS:   26501.57
+  Burst DPS:   61891.35
+avg DPS as percent of top build: 71.58%
+
+--> Build Ranking #233 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Elemental_Ninety_2
+               Cleanse_Mod
+             Shotgun_Spazz
+
+Average DPS:   26499.79
+  Burst DPS:   81129.10
+avg DPS as percent of top build: 71.57%
+
+--> Build Ranking #234 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Breach_Loader
+             Shotgun_Spazz
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   26488.54
+  Burst DPS:   74388.65
+avg DPS as percent of top build: 71.54%
+
+--> Build Ranking #235 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+             Breach_Loader
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   26481.99
+  Burst DPS:   57130.48
+avg DPS as percent of top build: 71.52%
+
+--> Build Ranking #236 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_2
+               Cleanse_Mod
+         Burdened_Magazine
+
+Average DPS:   26468.17
+  Burst DPS:   49816.11
+avg DPS as percent of top build: 71.49%
+
+--> Build Ranking #237 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+               Cleanse_Mod
+             Shotgun_Spazz
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   26464.96
+  Burst DPS:   74322.43
+avg DPS as percent of top build: 71.48%
+
+--> Build Ranking #238 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+               Cleanse_Mod
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   26458.42
+  Burst DPS:   57079.62
+avg DPS as percent of top build: 71.46%
+
+--> Build Ranking #239 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Elemental_Ninety_2
+             Breach_Loader
+         Accelerated_Blast
+
+Average DPS:   26457.56
+  Burst DPS:   72387.88
+avg DPS as percent of top build: 71.46%
+
+--> Build Ranking #240 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+               Cleanse_Mod
+
+Average DPS:   26425.02
+  Burst DPS:   55096.16
+avg DPS as percent of top build: 71.37%
+
+--> Build Ranking #241 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+               Blunderbuss
+        Primed_Elemental_1
+         Accelerated_Blast
+
+Average DPS:   26410.24
+  Burst DPS:   72258.42
+avg DPS as percent of top build: 71.33%
+
+--> Build Ranking #242 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+             Breach_Loader
+               Cleanse_Mod
+         Burdened_Magazine
+
+Average DPS:   26407.19
+  Burst DPS:   49701.33
+avg DPS as percent of top build: 71.32%
+
+--> Build Ranking #243 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+                Ammo_Stock
+         Accelerated_Blast
+         Burdened_Magazine
+
+Average DPS:   26392.26
+  Burst DPS:   51225.30
+avg DPS as percent of top build: 71.28%
+
+--> Build Ranking #244 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+               Blunderbuss
+        Primed_Elemental_1
+        Elemental_Ninety_2
+             Shotgun_Spazz
+
+Average DPS:   26379.73
+  Burst DPS:   80761.55
+avg DPS as percent of top build: 71.25%
+
+--> Build Ranking #245 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Primed_Ravage
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+         Accelerated_Blast
+
+Average DPS:   26376.82
+  Burst DPS:   72166.98
+avg DPS as percent of top build: 71.24%
+
+--> Build Ranking #246 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+               Blunderbuss
+        Primed_Elemental_1
+             Breach_Loader
+         Accelerated_Blast
+
+Average DPS:   26365.55
+  Burst DPS:   72136.16
+avg DPS as percent of top build: 71.21%
+
+--> Build Ranking #247 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Primed_Ravage
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+
+Average DPS:   26363.42
+  Burst DPS:   54967.73
+avg DPS as percent of top build: 71.20%
+
+--> Build Ranking #248 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Blunderbuss
+             Breach_Loader
+         Accelerated_Blast
+
+Average DPS:   26354.38
+  Burst DPS:   72105.59
+avg DPS as percent of top build: 71.18%
+
+--> Build Ranking #249 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Blunderbuss
+               Cleanse_Mod
+         Accelerated_Blast
+
+Average DPS:   26330.92
+  Burst DPS:   72041.40
+avg DPS as percent of top build: 71.11%
+
+--> Build Ranking #250 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Primed_Ravage
+             Breach_Loader
+               Cleanse_Mod
+         Accelerated_Blast
+
+Average DPS:   26322.75
+  Burst DPS:   72019.03
+avg DPS as percent of top build: 71.09%
+
+--> Build Ranking #251 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+             Breach_Loader
+               Cleanse_Mod
+
+Average DPS:   26314.91
+  Burst DPS:   54866.59
+avg DPS as percent of top build: 71.07%
+
+--> Build Ranking #252 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+             Primed_Ravage
+        Primed_Elemental_1
+        Elemental_Ninety_2
+
+Average DPS:   26314.14
+  Burst DPS:   54864.99
+avg DPS as percent of top build: 71.07%
+
+--> Build Ranking #253 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+             Shotgun_Spazz
+
+Average DPS:   26302.52
+  Burst DPS:   80525.16
+avg DPS as percent of top build: 71.04%
+
+--> Build Ranking #254 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+        Elemental_Ninety_2
+             Breach_Loader
+
+Average DPS:   26289.50
+  Burst DPS:   54813.62
+avg DPS as percent of top build: 71.00%
+
+--> Build Ranking #255 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Elemental_Ninety_2
+             Shotgun_Spazz
+                Ammo_Stock
+
+Average DPS:   26284.01
+  Burst DPS:   62407.00
+avg DPS as percent of top build: 70.99%
+
+--> Build Ranking #256 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+         Burdened_Magazine
+
+Average DPS:   26271.14
+  Burst DPS:   49445.27
+avg DPS as percent of top build: 70.95%
+
+--> Build Ranking #257 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+             Breach_Loader
+               Cleanse_Mod
+
+Average DPS:   26248.85
+  Burst DPS:   54728.85
+avg DPS as percent of top build: 70.89%
+
+--> Build Ranking #258 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+               Blunderbuss
+             Primed_Ravage
+        Primed_Elemental_1
+        Elemental_Ninety_2
+
+Average DPS:   26245.62
+  Burst DPS:   54722.11
+avg DPS as percent of top build: 70.88%
+
+--> Build Ranking #259 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+             Breach_Loader
+             Shotgun_Spazz
+
+Average DPS:   26192.92
+  Burst DPS:   80189.64
+avg DPS as percent of top build: 70.74%
+
+--> Build Ranking #260 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+               Cleanse_Mod
+             Tactical_Pump
+                Ammo_Stock
+
+Average DPS:   26180.89
+  Burst DPS:   40748.20
+avg DPS as percent of top build: 70.71%
+
+--> Build Ranking #261 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+               Cleanse_Mod
+         Accelerated_Blast
+     Critical_Deceleration
+
+Average DPS:   26163.86
+  Burst DPS:   63067.99
+avg DPS as percent of top build: 70.66%
+
+--> Build Ranking #262 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Breach_Loader
+             Shotgun_Spazz
+         Burdened_Magazine
+
+Average DPS:   26154.47
+  Burst DPS:   69989.78
+avg DPS as percent of top build: 70.64%
+
+--> Build Ranking #263 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_2
+               Cleanse_Mod
+             Shotgun_Spazz
+             Tactical_Pump
+
+Average DPS:   26146.02
+  Burst DPS:   67607.58
+avg DPS as percent of top build: 70.62%
+
+--> Build Ranking #264 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+        Elemental_Ninety_2
+             Breach_Loader
+             Tactical_Pump
+
+Average DPS:   26142.76
+  Burst DPS:   47961.91
+avg DPS as percent of top build: 70.61%
+
+--> Build Ranking #265 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+             Breach_Loader
+             Shotgun_Spazz
+
+Average DPS:   26127.17
+  Burst DPS:   79988.32
+avg DPS as percent of top build: 70.56%
+
+--> Build Ranking #266 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Breach_Loader
+               Cleanse_Mod
+             Tactical_Pump
+
+Average DPS:   26102.34
+  Burst DPS:   47887.75
+avg DPS as percent of top build: 70.50%
+
+--> Build Ranking #267 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+             Shotgun_Spazz
+         Accelerated_Blast
+
+Average DPS:   26102.06
+  Burst DPS:   96903.91
+avg DPS as percent of top build: 70.50%
+
+--> Build Ranking #268 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_2
+             Tactical_Pump
+                Ammo_Stock
+         Accelerated_Blast
+
+Average DPS:   26083.23
+  Burst DPS:   49304.00
+avg DPS as percent of top build: 70.45%
+
+--> Build Ranking #269 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Blunderbuss
+             Primed_Ravage
+         Accelerated_Blast
+
+Average DPS:   26075.61
+  Burst DPS:   71342.88
+avg DPS as percent of top build: 70.42%
+
+--> Build Ranking #270 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+             Breach_Loader
+               Cleanse_Mod
+             Shotgun_Spazz
+         Accelerated_Blast
+
+Average DPS:   26048.55
+  Burst DPS:   96705.24
+avg DPS as percent of top build: 70.35%
+
+--> Build Ranking #271 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+               Blunderbuss
+        Primed_Elemental_1
+
+Average DPS:   26021.56
+  Burst DPS:   54254.95
+avg DPS as percent of top build: 70.28%
+
+--> Build Ranking #272 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+        Primed_Elemental_1
+               Cleanse_Mod
+         Burdened_Magazine
+
+Average DPS:   25980.28
+  Burst DPS:   48897.84
+avg DPS as percent of top build: 70.17%
+
+--> Build Ranking #273 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Cleanse_Mod
+             Shotgun_Spazz
+             Tactical_Pump
+
+Average DPS:   25977.34
+  Burst DPS:   67171.40
+avg DPS as percent of top build: 70.16%
+
+--> Build Ranking #274 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+             Breach_Loader
+
+Average DPS:   25959.19
+  Burst DPS:   54124.91
+avg DPS as percent of top build: 70.11%
+
+--> Build Ranking #275 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+        Elemental_Ninety_1
+        Elemental_Ninety_2
+             Shotgun_Spazz
+             Tactical_Pump
+
+Average DPS:   25951.39
+  Burst DPS:   67104.30
+avg DPS as percent of top build: 70.09%
+
+--> Build Ranking #276 <--
+
+         Scattered_Justice
+         Elemental_Sixty_2
+         Elemental_Sixty_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Shotgun_Spazz
+             Tactical_Pump
+         Accelerated_Blast
+
+Average DPS:   25931.81
+  Burst DPS:   80039.54
+avg DPS as percent of top build: 70.04%
+

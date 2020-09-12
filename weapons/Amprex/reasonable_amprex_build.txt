@@ -1,0 +1,50 @@
+--> Mandatory Mods <--
+
+                Serration           BD   1.65 
+            Heavy_Caliber           BD   1.65 
+            Split_Chamber           MS   0.90 
+             Point_Strike           CC   1.50 
+              Vital_Sense           CM   1.20 
+   Primed_Bane_of_Grineer      grineer   0.45 
+            Infected_Clip        toxin   0.90 
+        Vile_Acceleration           BD  -0.15            FR   0.90 
+
+--> Flexible Mods <--
+
+    Primed_Bane_of_Corpus       corpus   0.45 
+  Primed_Bane_of_Infested     infested   0.45 
+ Primed_Bane_of_Corrupted    corrupted   0.45 
+      Vigilante_Armaments           MS   0.60 
+               Fast_Hands          RLS   0.30 
+              Hammer_Shot           CM   0.60            SC   0.40 
+            Magazine_Warp         MAGM   0.30 
+            Speed_Trigger           FR   0.60 
+           Critical_Delay           FR  -0.36            CC   0.48 
+
+--> Excluded Mods <--
+
+              Cryo_Rounds         cold   0.90 
+       Primed_Cryo_Rounds         cold   1.35 
+              Rime_Rounds         cold   0.60            SC   0.60 
+             Stormbringer  electricity   0.90 
+             High_Voltage  electricity   0.60            SC   0.60 
+                 Hellfire         heat   0.90 
+          Thermite_Rounds         heat   0.60            SC   0.60 
+          Malignant_Force        toxin   0.60            SC   0.60 
+                    Shred           FR   0.30 
+              Argon_Scope           CC   1.35 
+            Bladed_Rounds           CM   1.20 
+        Primed_Fast_Hands          RLS   0.55 
+             Primed_Shred           FR   0.55 
+                 Wildfire         heat   0.60           MAG   0.20 
+             Crash_Course       impact   1.20 
+         Piercing_Caliber     puncture   1.20 
+          Fanged_Fusilade        slash   1.20 
+
+--> Comments <--
+
+Mandatory Serration
+single 60 elemental anti-grineer build
+Primed bane mod is used, 2 ranks from full
+No other elemental mods allowed
+No IPS mods allowed

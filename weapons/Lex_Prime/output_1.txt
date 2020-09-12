@@ -1,0 +1,420 @@
+--> Mandatory Mods <--
+
+ 1           Hornet_Strike   DM  +2.20
+ 2       Elemental_Sixty_1   EM  +0.60
+ 3       Elemental_Sixty_2   EM  +0.60 
+
+--> Flexible Mods <--
+
+ 4        Barrel_Diffusion   MM  +1.20 
+ 5          Lethal_Torrent   MM  +0.60   FRM  +0.60 
+ 6    Primed_Pistol_Gambit  CCM  +1.53 
+ 7   Primed_Target_Cracker  CMM  +0.90 
+ 8               Expel_Mod  FDM  +0.30 
+ 9              Gunslinger  FRM  +0.72 
+10          Anemic_Agility   DM  -0.15   FRM  +0.90 
+11               Quickdraw RLSM  +0.48 
+12           Slip_Magazine   mM  +0.30 
+13            Hollow_Point   DM  -0.15   CMM  +0.60 
+14          Stunning_Speed RLSM  +0.40 
+15            Tainted_Clip RLSM  -0.30    mM  +0.60 
+16                    Bore   PM  +1.20 
+
+--> Excluded Mods <--
+
+17            Magnum_Force   DM  +1.35 
+18        Primed_Expel_Mod  FDM  +0.45 
+19              Augur_Pact   DM  +0.90 
+20      Elemental_Ninety_1   EM  +0.90 
+21      Elemental_Ninety_2   EM  +0.90 
+22      Elemental_Ninety_3   EM  +0.90 
+23      Primed_Elemental_1   EM  +1.35 
+24      Primed_Elemental_2   EM  +1.35 
+25        Primed_Quickdraw RLSM  +0.72 
+26    Primed_Slip_Magazine   mM  +0.45 
+27       Creeping_Bullseye  FRM  -0.36   CCM  +0.48 
+28    Hydrhaulic_Crosshair  CCM  +1.35 
+29       Sharpened_Bullets  CMM  +0.75 
+30               Ice_Storm   EM  +0.40    mM  +0.40 
+31                  Pummel   IM  +1.20 
+32                    Maim   SM  +1.20 
+
+--> Comments <--
+
+anti-grineer 60-60 corrosive build
+
+--> Build Ranking #1 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+            Lethal_Torrent
+      Primed_Pistol_Gambit
+     Primed_Target_Cracker
+                      Bore
+
+Average DPS:   24066.44
+  Burst DPS:   47593.80
+avg DPS as percent of top build: 100.00%
+
+--> Build Ranking #2 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+            Lethal_Torrent
+      Primed_Pistol_Gambit
+     Primed_Target_Cracker
+                 Expel_Mod
+
+Average DPS:   21509.38
+  Burst DPS:   42536.95
+avg DPS as percent of top build: 89.37%
+
+--> Build Ranking #3 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+            Lethal_Torrent
+      Primed_Pistol_Gambit
+     Primed_Target_Cracker
+              Hollow_Point
+
+Average DPS:   20089.66
+  Burst DPS:   39729.32
+avg DPS as percent of top build: 83.48%
+
+--> Build Ranking #4 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+            Lethal_Torrent
+      Primed_Pistol_Gambit
+              Hollow_Point
+                      Bore
+
+Average DPS:   19796.83
+  Burst DPS:   39150.21
+avg DPS as percent of top build: 82.26%
+
+--> Build Ranking #5 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+            Lethal_Torrent
+      Primed_Pistol_Gambit
+     Primed_Target_Cracker
+                 Quickdraw
+
+Average DPS:   19704.87
+  Burst DPS:   32720.73
+avg DPS as percent of top build: 81.88%
+
+--> Build Ranking #6 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+            Lethal_Torrent
+      Primed_Pistol_Gambit
+     Primed_Target_Cracker
+                Gunslinger
+
+Average DPS:   19625.51
+  Burst DPS:   47445.06
+avg DPS as percent of top build: 81.55%
+
+--> Build Ranking #7 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+      Primed_Pistol_Gambit
+     Primed_Target_Cracker
+                Gunslinger
+                      Bore
+
+Average DPS:   19600.84
+  Burst DPS:   40199.76
+avg DPS as percent of top build: 81.44%
+
+--> Build Ranking #8 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+      Primed_Pistol_Gambit
+     Primed_Target_Cracker
+            Anemic_Agility
+                      Bore
+
+Average DPS:   19586.81
+  Burst DPS:   42325.15
+avg DPS as percent of top build: 81.39%
+
+--> Build Ranking #9 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+            Lethal_Torrent
+      Primed_Pistol_Gambit
+     Primed_Target_Cracker
+            Anemic_Agility
+
+Average DPS:   19279.77
+  Burst DPS:   48729.61
+avg DPS as percent of top build: 80.11%
+
+--> Build Ranking #10 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+            Lethal_Torrent
+      Primed_Pistol_Gambit
+     Primed_Target_Cracker
+            Stunning_Speed
+
+Average DPS:   19266.92
+  Burst DPS:   32720.73
+avg DPS as percent of top build: 80.06%
+
+--> Build Ranking #11 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+            Lethal_Torrent
+     Primed_Target_Cracker
+                 Expel_Mod
+                      Bore
+
+Average DPS:   19194.09
+  Burst DPS:   37958.24
+avg DPS as percent of top build: 79.75%
+
+--> Build Ranking #12 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+      Primed_Pistol_Gambit
+     Primed_Target_Cracker
+                 Expel_Mod
+                      Bore
+
+Average DPS:   18860.05
+  Burst DPS:   30383.54
+avg DPS as percent of top build: 78.37%
+
+--> Build Ranking #13 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+            Lethal_Torrent
+      Primed_Pistol_Gambit
+     Primed_Target_Cracker
+             Slip_Magazine
+
+Average DPS:   18676.22
+  Burst DPS:   32720.73
+avg DPS as percent of top build: 77.60%
+
+--> Build Ranking #14 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+            Lethal_Torrent
+      Primed_Pistol_Gambit
+                 Expel_Mod
+                      Bore
+
+Average DPS:   18431.98
+  Burst DPS:   36451.08
+avg DPS as percent of top build: 76.59%
+
+--> Build Ranking #15 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+            Lethal_Torrent
+      Primed_Pistol_Gambit
+     Primed_Target_Cracker
+                 Expel_Mod
+                      Bore
+
+Average DPS:   17877.93
+  Burst DPS:   35355.39
+avg DPS as percent of top build: 74.29%
+
+--> Build Ranking #16 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+            Lethal_Torrent
+      Primed_Pistol_Gambit
+                 Expel_Mod
+              Hollow_Point
+
+Average DPS:   17693.41
+  Burst DPS:   34990.50
+avg DPS as percent of top build: 73.52%
+
+--> Build Ranking #17 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+      Primed_Pistol_Gambit
+     Primed_Target_Cracker
+              Hollow_Point
+                      Bore
+
+Average DPS:   17615.20
+  Burst DPS:   28378.08
+avg DPS as percent of top build: 73.19%
+
+--> Build Ranking #18 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+            Lethal_Torrent
+     Primed_Target_Cracker
+                 Quickdraw
+                      Bore
+
+Average DPS:   17583.82
+  Burst DPS:   29198.65
+avg DPS as percent of top build: 73.06%
+
+--> Build Ranking #19 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+      Primed_Pistol_Gambit
+     Primed_Target_Cracker
+                 Expel_Mod
+                Gunslinger
+
+Average DPS:   17518.25
+  Burst DPS:   35928.53
+avg DPS as percent of top build: 72.79%
+
+--> Build Ranking #20 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+            Lethal_Torrent
+     Primed_Target_Cracker
+                Gunslinger
+                      Bore
+
+Average DPS:   17513.00
+  Burst DPS:   42338.04
+avg DPS as percent of top build: 72.77%
+
+--> Build Ranking #21 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+      Primed_Pistol_Gambit
+     Primed_Target_Cracker
+                 Expel_Mod
+            Anemic_Agility
+
+Average DPS:   17505.71
+  Burst DPS:   37828.10
+avg DPS as percent of top build: 72.74%
+
+--> Build Ranking #22 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+            Lethal_Torrent
+      Primed_Pistol_Gambit
+     Primed_Target_Cracker
+              Tainted_Clip
+
+Average DPS:   17471.03
+  Burst DPS:   32720.73
+avg DPS as percent of top build: 72.59%
+
+--> Build Ranking #23 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+            Lethal_Torrent
+     Primed_Target_Cracker
+            Anemic_Agility
+                      Bore
+
+Average DPS:   17204.48
+  Burst DPS:   43484.31
+avg DPS as percent of top build: 71.49%
+
+--> Build Ranking #24 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+            Lethal_Torrent
+     Primed_Target_Cracker
+            Stunning_Speed
+                      Bore
+
+Average DPS:   17193.01
+  Burst DPS:   29198.65
+avg DPS as percent of top build: 71.44%
+
+--> Build Ranking #25 <--
+
+             Hornet_Strike
+         Elemental_Sixty_1
+         Elemental_Sixty_2
+          Barrel_Diffusion
+            Lethal_Torrent
+      Primed_Pistol_Gambit
+                 Quickdraw
+                      Bore
+
+Average DPS:   16885.64
+  Burst DPS:   28039.29
+avg DPS as percent of top build: 70.16%
+

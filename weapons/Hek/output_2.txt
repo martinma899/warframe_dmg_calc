@@ -1,0 +1,1168 @@
+--> Mandatory Mods <--
+
+ 1       Scattered_Justice   MM  +2.00 
+ 2      Primed_Elemental_1   EM  +1.35 
+ 3      Elemental_Ninety_1   EM  +0.90 
+
+--> Flexible Mods <--
+
+ 4      Primed_Point_Blank   DM  +1.35 
+ 5          Hell's_Chamber   MM  +1.20 
+ 6     Vigilante_Armaments   MM  +0.60 
+ 7             Blunderbuss  CCM  +0.90 
+ 8           Primed_Ravage  CMM  +0.90 
+ 9           Breach_Loader   PM  +1.20 
+10             Cleanse_Mod  FDM  +0.30 
+11           Shotgun_Spazz  FRM  +0.90 
+12           Tactical_Pump RLSM  +0.30 
+13         Chilling_Reload   EM  +0.60  RLSM  +0.40 
+14       Burdened_Magazine RLSM  -0.18    mM  +0.60 
+15   Critical_Deceleration  FRM  -0.30   CCM  +0.80 
+
+--> Excluded Mods <--
+
+16             Point_Blank   DM  +0.90 
+17                  Ravage  CMM  +0.60 
+18          Vicious_Spread   DM  +0.90 
+19      Sweeping_Serration   SM  +1.20 
+20            Full_Contact   IM  +1.20 
+21             Laser_Sight  CCM  +1.20 
+22           Shrapnel_Shot  CMM  +0.99 
+23                   Blaze   DM  +0.60    EM  +0.60 
+24          Frail_Momentum   DM  -0.15   FRM  +0.90 
+25      Elemental_Ninety_3   EM  +0.90 
+26       Elemental_Sixty_2   EM  +0.60 
+27       Elemental_Sixty_1   EM  +0.60 
+28      Elemental_Ninety_2   EM  +0.90 
+29              Ammo_Stock   mM  +0.60 
+30       Accelerated_Blast   PM  +0.60   FRM  +0.60 
+
+--> Comments <--
+
+anti-corpus magnetic
+
+--> Build Ranking #1 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Cleanse_Mod
+             Shotgun_Spazz
+           Chilling_Reload
+
+Average DPS:   47542.95
+  Burst DPS:  117549.96
+avg DPS as percent of top build: 100.00%
+
+--> Build Ranking #2 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Breach_Loader
+             Shotgun_Spazz
+           Chilling_Reload
+
+Average DPS:   43980.80
+  Burst DPS:  108742.52
+avg DPS as percent of top build: 92.51%
+
+--> Build Ranking #3 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+             Shotgun_Spazz
+           Chilling_Reload
+
+Average DPS:   42555.93
+  Burst DPS:  105219.54
+avg DPS as percent of top build: 89.51%
+
+--> Build Ranking #4 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Shotgun_Spazz
+           Chilling_Reload
+         Burdened_Magazine
+
+Average DPS:   42521.95
+  Burst DPS:   90423.04
+avg DPS as percent of top build: 89.44%
+
+--> Build Ranking #5 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Breach_Loader
+               Cleanse_Mod
+           Chilling_Reload
+
+Average DPS:   41917.06
+  Burst DPS:   74402.77
+avg DPS as percent of top build: 88.17%
+
+--> Build Ranking #6 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+             Shotgun_Spazz
+           Chilling_Reload
+
+Average DPS:   41796.00
+  Burst DPS:  103340.62
+avg DPS as percent of top build: 87.91%
+
+--> Build Ranking #7 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Shotgun_Spazz
+             Tactical_Pump
+           Chilling_Reload
+
+Average DPS:   40866.46
+  Burst DPS:   90423.04
+avg DPS as percent of top build: 85.96%
+
+--> Build Ranking #8 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+             Breach_Loader
+               Cleanse_Mod
+             Shotgun_Spazz
+           Chilling_Reload
+
+Average DPS:   40839.31
+  Burst DPS:  100975.19
+avg DPS as percent of top build: 85.90%
+
+--> Build Ranking #9 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+               Cleanse_Mod
+             Shotgun_Spazz
+           Chilling_Reload
+
+Average DPS:   40751.10
+  Burst DPS:  100757.10
+avg DPS as percent of top build: 85.71%
+
+--> Build Ranking #10 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+               Cleanse_Mod
+           Chilling_Reload
+
+Average DPS:   40559.05
+  Burst DPS:   71992.32
+avg DPS as percent of top build: 85.31%
+
+--> Build Ranking #11 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Breach_Loader
+               Cleanse_Mod
+             Shotgun_Spazz
+
+Average DPS:   40191.34
+  Burst DPS:  123045.80
+avg DPS as percent of top build: 84.54%
+
+--> Build Ranking #12 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+               Cleanse_Mod
+           Chilling_Reload
+
+Average DPS:   39834.78
+  Burst DPS:   70706.74
+avg DPS as percent of top build: 83.79%
+
+--> Build Ranking #13 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Blunderbuss
+             Shotgun_Spazz
+           Chilling_Reload
+
+Average DPS:   39563.72
+  Burst DPS:   97821.29
+avg DPS as percent of top build: 83.22%
+
+--> Build Ranking #14 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+             Primed_Ravage
+               Cleanse_Mod
+             Shotgun_Spazz
+           Chilling_Reload
+
+Average DPS:   39516.22
+  Burst DPS:   97703.86
+avg DPS as percent of top build: 83.12%
+
+--> Build Ranking #15 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+               Cleanse_Mod
+             Shotgun_Spazz
+           Chilling_Reload
+         Burdened_Magazine
+
+Average DPS:   39484.67
+  Burst DPS:   83964.25
+avg DPS as percent of top build: 83.05%
+
+--> Build Ranking #16 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Cleanse_Mod
+           Chilling_Reload
+         Burdened_Magazine
+
+Average DPS:   38840.19
+  Burst DPS:   61868.40
+avg DPS as percent of top build: 81.69%
+
+--> Build Ranking #17 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Cleanse_Mod
+             Shotgun_Spazz
+             Tactical_Pump
+
+Average DPS:   38375.61
+  Burst DPS:   99230.48
+avg DPS as percent of top build: 80.72%
+
+--> Build Ranking #18 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+               Cleanse_Mod
+             Shotgun_Spazz
+             Tactical_Pump
+           Chilling_Reload
+
+Average DPS:   37947.42
+  Burst DPS:   83964.25
+avg DPS as percent of top build: 79.82%
+
+--> Build Ranking #19 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Cleanse_Mod
+             Tactical_Pump
+           Chilling_Reload
+
+Average DPS:   37765.27
+  Burst DPS:   61868.40
+avg DPS as percent of top build: 79.43%
+
+--> Build Ranking #20 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+               Cleanse_Mod
+             Shotgun_Spazz
+
+Average DPS:   37716.22
+  Burst DPS:  115468.20
+avg DPS as percent of top build: 79.33%
+
+--> Build Ranking #21 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Blunderbuss
+               Cleanse_Mod
+           Chilling_Reload
+
+Average DPS:   37707.24
+  Burst DPS:   66930.36
+avg DPS as percent of top build: 79.31%
+
+--> Build Ranking #22 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+             Breach_Loader
+             Shotgun_Spazz
+           Chilling_Reload
+
+Average DPS:   37697.82
+  Burst DPS:   93207.87
+avg DPS as percent of top build: 79.29%
+
+--> Build Ranking #23 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+             Breach_Loader
+           Chilling_Reload
+
+Average DPS:   37520.16
+  Burst DPS:   66598.29
+avg DPS as percent of top build: 78.92%
+
+--> Build Ranking #24 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Blunderbuss
+             Primed_Ravage
+           Chilling_Reload
+
+Average DPS:   37341.63
+  Burst DPS:   66281.39
+avg DPS as percent of top build: 78.54%
+
+--> Build Ranking #25 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Cleanse_Mod
+             Shotgun_Spazz
+         Burdened_Magazine
+
+Average DPS:   37081.42
+  Burst DPS:   99230.48
+avg DPS as percent of top build: 78.00%
+
+--> Build Ranking #26 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+               Cleanse_Mod
+             Shotgun_Spazz
+
+Average DPS:   37042.71
+  Burst DPS:  113406.26
+avg DPS as percent of top build: 77.91%
+
+--> Build Ranking #27 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+             Breach_Loader
+           Chilling_Reload
+
+Average DPS:   36850.16
+  Burst DPS:   65409.03
+avg DPS as percent of top build: 77.51%
+
+--> Build Ranking #28 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+               Blunderbuss
+               Cleanse_Mod
+             Shotgun_Spazz
+           Chilling_Reload
+
+Average DPS:   36737.74
+  Burst DPS:   90834.06
+avg DPS as percent of top build: 77.27%
+
+--> Build Ranking #29 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Breach_Loader
+             Shotgun_Spazz
+             Tactical_Pump
+
+Average DPS:   36604.43
+  Burst DPS:   94650.61
+avg DPS as percent of top build: 76.99%
+
+--> Build Ranking #30 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+             Primed_Ravage
+             Breach_Loader
+             Shotgun_Spazz
+           Chilling_Reload
+
+Average DPS:   36555.47
+  Burst DPS:   90383.39
+avg DPS as percent of top build: 76.89%
+
+--> Build Ranking #31 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+             Breach_Loader
+             Shotgun_Spazz
+           Chilling_Reload
+         Burdened_Magazine
+
+Average DPS:   36526.28
+  Burst DPS:   77673.23
+avg DPS as percent of top build: 76.83%
+
+--> Build Ranking #32 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+             Primed_Ravage
+             Shotgun_Spazz
+           Chilling_Reload
+
+Average DPS:   36476.51
+  Burst DPS:   90188.18
+avg DPS as percent of top build: 76.72%
+
+--> Build Ranking #33 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Shotgun_Spazz
+           Chilling_Reload
+     Critical_Deceleration
+
+Average DPS:   36465.89
+  Burst DPS:   81683.59
+avg DPS as percent of top build: 76.70%
+
+--> Build Ranking #34 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+             Shotgun_Spazz
+           Chilling_Reload
+         Burdened_Magazine
+
+Average DPS:   36447.39
+  Burst DPS:   77505.47
+avg DPS as percent of top build: 76.66%
+
+--> Build Ranking #35 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+               Blunderbuss
+             Primed_Ravage
+             Shotgun_Spazz
+           Chilling_Reload
+
+Average DPS:   36381.52
+  Burst DPS:   89953.31
+avg DPS as percent of top build: 76.52%
+
+--> Build Ranking #36 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+             Breach_Loader
+               Cleanse_Mod
+
+Average DPS:   36143.02
+  Burst DPS:   75358.19
+avg DPS as percent of top build: 76.02%
+
+--> Build Ranking #37 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+             Breach_Loader
+             Shotgun_Spazz
+
+Average DPS:   35975.47
+  Burst DPS:  110138.90
+avg DPS as percent of top build: 75.67%
+
+--> Build Ranking #38 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Breach_Loader
+           Chilling_Reload
+         Burdened_Magazine
+
+Average DPS:   35930.09
+  Burst DPS:   57232.90
+avg DPS as percent of top build: 75.57%
+
+--> Build Ranking #39 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+             Breach_Loader
+               Cleanse_Mod
+           Chilling_Reload
+
+Average DPS:   35928.91
+  Burst DPS:   63773.81
+avg DPS as percent of top build: 75.57%
+
+--> Build Ranking #40 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+             Primed_Ravage
+           Chilling_Reload
+
+Average DPS:   35656.31
+  Burst DPS:   63289.95
+avg DPS as percent of top build: 75.00%
+
+--> Build Ranking #41 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+             Breach_Loader
+               Cleanse_Mod
+
+Average DPS:   35497.61
+  Burst DPS:   74012.51
+avg DPS as percent of top build: 74.66%
+
+--> Build Ranking #42 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Breach_Loader
+             Shotgun_Spazz
+         Burdened_Magazine
+
+Average DPS:   35369.97
+  Burst DPS:   94650.61
+avg DPS as percent of top build: 74.40%
+
+--> Build Ranking #43 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+             Primed_Ravage
+             Shotgun_Spazz
+           Chilling_Reload
+         Burdened_Magazine
+
+Average DPS:   35342.92
+  Burst DPS:   75156.81
+avg DPS as percent of top build: 74.34%
+
+--> Build Ranking #44 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+             Breach_Loader
+             Shotgun_Spazz
+
+Average DPS:   35333.05
+  Burst DPS:  108172.13
+avg DPS as percent of top build: 74.32%
+
+--> Build Ranking #45 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Breach_Loader
+               Cleanse_Mod
+             Tactical_Pump
+
+Average DPS:   35299.47
+  Burst DPS:   64760.95
+avg DPS as percent of top build: 74.25%
+
+--> Build Ranking #46 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+             Breach_Loader
+             Shotgun_Spazz
+             Tactical_Pump
+           Chilling_Reload
+
+Average DPS:   35104.21
+  Burst DPS:   77673.23
+avg DPS as percent of top build: 73.84%
+
+--> Build Ranking #47 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Blunderbuss
+               Cleanse_Mod
+             Shotgun_Spazz
+
+Average DPS:   35064.30
+  Burst DPS:  107349.34
+avg DPS as percent of top build: 73.75%
+
+--> Build Ranking #48 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+             Shotgun_Spazz
+             Tactical_Pump
+           Chilling_Reload
+
+Average DPS:   35028.39
+  Burst DPS:   77505.47
+avg DPS as percent of top build: 73.68%
+
+--> Build Ranking #49 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Breach_Loader
+             Tactical_Pump
+           Chilling_Reload
+
+Average DPS:   34935.70
+  Burst DPS:   57232.90
+avg DPS as percent of top build: 73.48%
+
+--> Build Ranking #50 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Blunderbuss
+             Primed_Ravage
+               Cleanse_Mod
+
+Average DPS:   34886.03
+  Burst DPS:   72737.37
+avg DPS as percent of top build: 73.38%
+
+--> Build Ranking #51 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Blunderbuss
+             Breach_Loader
+           Chilling_Reload
+
+Average DPS:   34882.03
+  Burst DPS:   61915.60
+avg DPS as percent of top build: 73.37%
+
+--> Build Ranking #52 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+             Primed_Ravage
+             Breach_Loader
+               Cleanse_Mod
+           Chilling_Reload
+
+Average DPS:   34840.15
+  Burst DPS:   61841.27
+avg DPS as percent of top build: 73.28%
+
+--> Build Ranking #53 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+           Chilling_Reload
+         Burdened_Magazine
+
+Average DPS:   34766.05
+  Burst DPS:   55378.71
+avg DPS as percent of top build: 73.13%
+
+--> Build Ranking #54 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+             Primed_Ravage
+               Cleanse_Mod
+           Chilling_Reload
+
+Average DPS:   34764.90
+  Burst DPS:   61707.70
+avg DPS as percent of top build: 73.12%
+
+--> Build Ranking #55 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Blunderbuss
+             Primed_Ravage
+             Shotgun_Spazz
+
+Average DPS:   34724.31
+  Burst DPS:  106308.46
+avg DPS as percent of top build: 73.04%
+
+--> Build Ranking #56 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+               Blunderbuss
+             Primed_Ravage
+               Cleanse_Mod
+           Chilling_Reload
+
+Average DPS:   34674.37
+  Burst DPS:   61547.00
+avg DPS as percent of top build: 72.93%
+
+--> Build Ranking #57 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+             Breach_Loader
+               Cleanse_Mod
+             Shotgun_Spazz
+
+Average DPS:   34449.72
+  Burst DPS:  105467.83
+avg DPS as percent of top build: 72.46%
+
+--> Build Ranking #58 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Breach_Loader
+               Cleanse_Mod
+         Burdened_Magazine
+
+Average DPS:   34408.62
+  Burst DPS:   64760.95
+avg DPS as percent of top build: 72.37%
+
+--> Build Ranking #59 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+             Shotgun_Spazz
+             Tactical_Pump
+
+Average DPS:   34350.20
+  Burst DPS:   88821.69
+avg DPS as percent of top build: 72.25%
+
+--> Build Ranking #60 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Shotgun_Spazz
+             Tactical_Pump
+         Burdened_Magazine
+
+Average DPS:   34274.04
+  Burst DPS:   76331.14
+avg DPS as percent of top build: 72.09%
+
+--> Build Ranking #61 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+           Chilling_Reload
+         Burdened_Magazine
+
+Average DPS:   34145.23
+  Burst DPS:   54389.80
+avg DPS as percent of top build: 71.82%
+
+--> Build Ranking #62 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+             Breach_Loader
+               Cleanse_Mod
+             Shotgun_Spazz
+             Tactical_Pump
+
+Average DPS:   33989.83
+  Burst DPS:   87889.86
+avg DPS as percent of top build: 71.49%
+
+--> Build Ranking #63 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+               Blunderbuss
+             Breach_Loader
+             Shotgun_Spazz
+           Chilling_Reload
+
+Average DPS:   33985.16
+  Burst DPS:   84028.31
+avg DPS as percent of top build: 71.48%
+
+--> Build Ranking #64 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+             Primed_Ravage
+             Shotgun_Spazz
+             Tactical_Pump
+           Chilling_Reload
+
+Average DPS:   33966.92
+  Burst DPS:   75156.81
+avg DPS as percent of top build: 71.44%
+
+--> Build Ranking #65 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+             Shotgun_Spazz
+             Tactical_Pump
+           Chilling_Reload
+         Burdened_Magazine
+
+Average DPS:   33919.24
+  Burst DPS:   64587.89
+avg DPS as percent of top build: 71.34%
+
+--> Build Ranking #66 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+               Blunderbuss
+             Shotgun_Spazz
+           Chilling_Reload
+
+Average DPS:   33911.76
+  Burst DPS:   83846.82
+avg DPS as percent of top build: 71.33%
+
+--> Build Ranking #67 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+               Cleanse_Mod
+             Shotgun_Spazz
+           Chilling_Reload
+     Critical_Deceleration
+
+Average DPS:   33861.18
+  Burst DPS:   75849.05
+avg DPS as percent of top build: 71.22%
+
+--> Build Ranking #68 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+             Primed_Ravage
+             Tactical_Pump
+           Chilling_Reload
+
+Average DPS:   33803.88
+  Burst DPS:   55378.71
+avg DPS as percent of top build: 71.10%
+
+--> Build Ranking #69 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+             Shotgun_Spazz
+             Tactical_Pump
+
+Average DPS:   33736.80
+  Burst DPS:   87235.59
+avg DPS as percent of top build: 70.96%
+
+--> Build Ranking #70 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Blunderbuss
+             Breach_Loader
+               Cleanse_Mod
+
+Average DPS:   33601.71
+  Burst DPS:   70059.57
+avg DPS as percent of top build: 70.68%
+
+--> Build Ranking #71 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+               Blunderbuss
+             Breach_Loader
+             Shotgun_Spazz
+
+Average DPS:   33445.94
+  Burst DPS:  102394.75
+avg DPS as percent of top build: 70.35%
+
+--> Build Ranking #72 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+             Primed_Ravage
+             Breach_Loader
+               Cleanse_Mod
+             Shotgun_Spazz
+
+Average DPS:   33405.79
+  Burst DPS:  102271.83
+avg DPS as percent of top build: 70.26%
+
+--> Build Ranking #73 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+             Breach_Loader
+               Cleanse_Mod
+           Chilling_Reload
+         Burdened_Magazine
+
+Average DPS:   33363.66
+  Burst DPS:   53144.84
+avg DPS as percent of top build: 70.18%
+
+--> Build Ranking #74 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+            Hell's_Chamber
+       Vigilante_Armaments
+             Primed_Ravage
+               Cleanse_Mod
+
+Average DPS:   33311.54
+  Burst DPS:   69454.55
+avg DPS as percent of top build: 70.07%
+
+--> Build Ranking #75 <--
+
+         Scattered_Justice
+        Primed_Elemental_1
+        Elemental_Ninety_1
+        Primed_Point_Blank
+       Vigilante_Armaments
+               Cleanse_Mod
+           Chilling_Reload
+         Burdened_Magazine
+
+Average DPS:   33291.60
+  Burst DPS:   53030.06
+avg DPS as percent of top build: 70.02%
+
