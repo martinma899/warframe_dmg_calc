@@ -1,5 +1,4 @@
 % do things before the execution of script
-addpath(genpath('utility'));
+addpath(genpath('warframe_dmg_calc'));
 load('dmghtm.mat');
-addpath('weapons');
 

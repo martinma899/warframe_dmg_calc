@@ -1,8 +1,17 @@
-function [wpb] = read_weapon_xlsx(filename)
-% filename is weapon_name.xlsx
-[~,~,data] = xlsread(filename);
+function [wpb] = read_weapon_xlsx(weapon_name)
+% read entire weapon database
+[~,~,data] = xlsread('weapon_database.xlsx');
 % make a cell array of field names
 field_names = data(:,1);
+% make a cell array of all weapon names
+all_weapon_names = data(1,:);
+% find the column index of the weapon
+weapon_ind = find(strcmp(data(1,:),weapon_name));
+% if weapon does not exist
+if isempty(weapon_ind)
+    str = sprintf('Weapon named %s is not found in database',)
+end
+
 % find index of field name "damage_phase"
 damage_phase_field_index = strcmp('damage_phase',field_names);
 % find damage phase

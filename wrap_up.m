@@ -1,1 +1,1 @@
-rmpath(weapon_path);
+addpath(genpath('warframe_dmg_calc'));

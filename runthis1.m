@@ -1,4 +1,4 @@
-% a function execution script intended to test multiple things. 
+ a function execution script intended to test multiple things. 
 
 % completed: 
 
