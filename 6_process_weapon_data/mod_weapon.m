@@ -1,17 +1,10 @@
-function [wpm_quantum,wpm] = mod_weapon(wpb,mods)
+function [wpm_quantum,wpm] = mod_weapon(wpb, mods)
 % takes in a series of mods and an unmodded weapon object, and mod it
 % 
 % input 1: wpb, the struct of an unmodded weapon
-% fields include : slot, type, trigger, FR, MAG, AMMO, RLT, CC, CM, SC, MS,
-% impact, puncture, slash, cold, electricity, heat, toxin, blast,
-% corrosive, gas, magnetic, radiation, viral
-% grineer, corpus, infested, corrupted
 % 
-% input 2: mods
-% a cell array of mods which are structs that are to be applied to the weapon
-% mod fields may include: FR, MAG, AMMO, RLS, CC, CM, SC, MS, BD, impact, 
-% puncture, slash, cold, electricity, heat, toxin, grineer, corpus,
-% infested, corrupted
+% input 2: mod
+% the combined mod object of all the mods and buffs applied to this weapon
 
 wpm = wpb; % create the modded weapon object
 
