@@ -8,5 +8,8 @@ addpath('6_process_weapon_data');
 addpath('7_mod_database');
 addpath('8_process_mod_data');
 addpath('9_weapon_statistics_report');
+addpath('z_other_things');
+
+
 load('dmghtm.mat');
 

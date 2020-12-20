@@ -1,0 +1,27 @@
+primed_rubedo_lined_barrel              BD  1.87 
+             venomous_clip           TOXIN  1.20 
+            polar_magazine            COLD  1.20 
+         combustion_rounds            HEAT  1.20 
+        electrified_barrel     ELECTRICITY  1.20 
+       rubedo_lined_barrel              BD  1.00 
+               archgun_ace              FR  0.48             RLS  1.02 
+              quick_reload             RLS  1.00 
+              sabot_rounds              BD  0.60              PT  3.00 
+               dual_rounds              MS  0.60 
+      contamination_casing           TOXIN  0.60              SC  0.60 
+             magma_chamber            HEAT  0.60              SC  0.60 
+           charged_bullets     ELECTRICITY  0.60              SC  0.60 
+         hypothermic_shell            COLD  0.60              SC  0.60 
+        magazine_extension             MAG  0.60 
+              zodiac_shred           SLASH  0.90 
+              quasar_drill        PUNCTURE  0.90 
+               comet_blast          IMPACT  0.90 
+          hollowed_bullets              CM  0.80 
+            parallax_scope              CC  1.00 
+         automatic_trigger              FR  0.60 
+         deadly_efficiency              BD  1.20 
+        modified_munitions              SC  0.60 
+             marked_target              SC  1.20 
+            critical_focus              CC  0.60              CM  0.60 
+                shell_rush     CHARGE_RATE  0.50 
+                ammo_chain            AMMO  1.00 

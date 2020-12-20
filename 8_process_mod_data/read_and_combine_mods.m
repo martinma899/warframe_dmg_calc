@@ -1,12 +1,13 @@
-function combined_mod = read_and_combine_mods (mods_arr)
+function combined_mod = read_and_combine_mods (mods_arr,weapon_type)
 % a function that reads a selection of mods by their name from the central
 % mod database and combines them into a single mod object for use in later
 % weapon modding. 
 % mods_arr: a cell array of mod names
 % combined_mod: the final big combined mod 
+% weapon_type: string. rifle, pistol, shotgun, archgun
 
 % read mod database
-[~,~,data] = xlsread('mod_database.xlsx','rifle');
+[~,~,data] = xlsread('mod_database.xlsx',weapon_type);
 
 % get mod names
 mod_names = data(:,1);

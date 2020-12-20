@@ -46,11 +46,13 @@ wpm.radiation   + ...
 wpm.viral;
 
 % might as well take care of physical damage mods here
-wpm.impact = wpm.impact+total_base_damage*mod.impact;
-wpm.puncture = wpm.puncture+total_base_damage*mod.puncture;
-wpm.slash = wpm.slash+total_base_damage*mod.slash;
+wpm.impact = wpm.impact*(1+mod.impact);
+wpm.puncture = wpm.puncture*(1+mod.puncture);
+wpm.slash = wpm.slash*(1+mod.slash);
 
 % take care of elemental mods
+
+if ~isempty(mod.elemental_order)
 % first find what elementals the weapon has innately
 elemental_names = {
 'cold'
@@ -105,7 +107,7 @@ wpm.viral       = 0;
 for i = 1:numel(elemental_order)
     wpm.(elemental_order{i}) = elemental_values(i);
 end
-
+end
 %% phase specific stats, phase 2
 
 if wpb.phase2_present=='Y'
@@ -148,11 +150,13 @@ wpm.radiation2   + ...
 wpm.viral2;
 
 % might as well take care of physical damage mods here
-wpm.impact2 = wpm.impact2+total_base_damage2*mod.impact;
-wpm.puncture2 = wpm.puncture2+total_base_damage2*mod.puncture;
-wpm.slash2 = wpm.slash2+total_base_damage2*mod.slash;
+wpm.impact2 = wpm.impact2*(1+mod.impact);
+wpm.puncture2 = wpm.puncture2*(1+mod.puncture);
+wpm.slash2 = wpm.slash2*(1+mod.slash);
 
 % take care of elemental mods
+
+if ~isempty(mod.elemental_order)
 % first find what elementals the weapon has innately
 
 elemental_order = [];
@@ -198,6 +202,7 @@ for i = 1:numel(elemental_order)
     wpm.([elemental_order{i} '2']) = elemental_values(i);
 end
 end
+end
 
 %% phase specific stats, phase 2
 
@@ -241,11 +246,13 @@ wpm.radiation3   + ...
 wpm.viral3;
 
 % might as well take care of physical damage mods here
-wpm.impact3 = wpm.impact3+total_base_damage3*mod.impact;
-wpm.puncture3 = wpm.puncture3+total_base_damage3*mod.puncture;
-wpm.slash3 = wpm.slash3+total_base_damage3*mod.slash;
+wpm.impact3 = wpm.impact3*(1+mod.impact);
+wpm.puncture3 = wpm.puncture3*(1+mod.puncture);
+wpm.slash3 = wpm.slash3*(1+mod.slash);
 
 % take care of elemental mods
+
+if ~isempty(mod.elemental_order)
 % first find what elementals the weapon has innately
 
 elemental_order = [];
@@ -291,6 +298,7 @@ for i = 1:numel(elemental_order)
     wpm.([elemental_order{i} '3']) = elemental_values(i);
 end
 end
+end
 
 %% non phase specific stats
 
@@ -299,16 +307,17 @@ wpm.MS = wpb.MS*(1+mod.MS);
 
 % take care of fire rate
 wpm.FR = wpb.FR*(1+mod.FR);
+wpm.charge_time = wpb.charge_time/(1+mod.FR);
 
 % take care of RLS and RLT
 wpm.RLS = wpb.RLS*(1+mod.RLS);
 wpm.RLT = 1/wpm.RLS;
 
 % take care of MAG
-wpm.MAG = wpb.MAG*(1+mod.MAG);
+wpm.MAG = round(wpb.MAG*(1+mod.MAG));
 
 % cake care of AMMO
-wpm.AMMO = wpb.AMMO*(1+mod.AMMO);
+wpm.AMMO = round(wpb.AMMO*(1+mod.AMMO));
 
 % take care of faction stats
 wpm.grineer = mod.grineer;

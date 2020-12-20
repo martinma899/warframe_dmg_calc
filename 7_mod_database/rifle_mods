@@ -1,0 +1,51 @@
+            heavy_caliber              BD  1.65 
+                serration              BD  1.65
+        amalgam_serration              BD  1.55 
+        vile_acceleration              BD -0.15              FR  0.90 
+            split_chamber              MS  0.90 
+      vigilante_armaments              MS  0.60    ENHANCE_CRIT  0.05 
+             point_strike              CC  1.50 
+              argon_scope              CC  1.35 
+               proton_jet              CC  1.20              SC  1.20 
+              hammer_shot              CC  0.60              SC  0.80 
+           critical_delay              CC  0.48              FR -0.36 
+            bladed_rounds              CM  1.20 
+              vital_sense              CM  1.20 
+       primed_cryo_rounds            COLD  1.65 
+              cryo_rounds            COLD  0.90 
+              rime_rounds            COLD  0.60              SC  0.60 
+             stormbringer     ELECTRICITY  0.90 
+             high_voltage     ELECTRICITY  0.60              SC  0.60 
+                 hellfire            HEAT  0.90 
+          thermite_rounds            HEAT  0.60              SC  0.60 
+                 wildfire            HEAT  0.60             MAG  0.20 
+            infected_clip           TOXIN  0.90 
+          malignant_force           TOXIN  0.60              SC  0.60 
+            speed_trigger              FR  0.60 
+             primed_shred              FR  0.55              PT  2.20 
+         vigilange_fervor              FR  0.45    ENHANCE_CRIT  0.05 
+                    shred              FR  0.30              PT  1.20 
+   primed_bane_of_grineer         GRINEER  0.55 
+          bane_of_grineer         GRINEER  0.30 
+    primed_bane_of_corpus          CORPUS  0.55 
+           bane_of_corpus          CORPUS  0.30 
+  primed_bane_of_infested        INFESTED  0.55 
+         bane_of_infested        INFESTED  0.30 
+ primed_bane_of_corrupted       CORRUPTED  0.55 
+        bane_of_corrupted       CORRUPTED  0.30 
+           rifle_aptitude              SC  0.90 
+           catalyzer_link              SC  0.60 
+              metal_auger              PT  2.10 
+        vigilante_offense              PT  1.50    ENHANCE_CRIT  0.05 
+        primed_fast_hands             RLS  0.55 
+               fast_hands             RLS  0.30 
+            magazine_warp             MAG  0.30 
+                ammo_drum            AMMO  0.90 
+             crash_course          IMPACT  1.20 
+                  rupture          IMPACT  0.30 
+         piercing_caliber        PUNCTURE  1.20 
+             piercing_hit        PUNCTURE  0.30 
+         fanged_fusillade           SLASH  1.20 
+            sawtooth_clip           SLASH  0.30 
+         hunter_munitions   SLASH_ON_CRIT  0.30 
+        continuous_misery STATUS_DURATION  1.00 

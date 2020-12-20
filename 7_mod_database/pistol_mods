@@ -1,0 +1,51 @@
+ amalgam_barrel_diffusion              MS  1.10 
+           anemic_agility              BD -0.15              FR  0.90 
+               augur_pact              BD  0.90 
+             augur_seeker STATUS_DURATION  0.30 
+         barrel_diffusion              MS  1.20 
+                     bore        PUNCTURE  1.20 
+        concussion_rounds          IMPACT  0.60 
+        creeping_bullseye              CC  0.48              FR -0.36 
+              deep_freeze            COLD  0.90 
+       embedded_catalyzer              SC  0.90 
+             expel_corpus          CORPUS  0.30 
+          expel_corrupted       CORRUPTED  0.30 
+            expel_grineer         GRINEER  0.30 
+           expel_infested        INFESTED  0.30 
+                frostbite            COLD  0.60              SC  0.60 
+               gunslinger              FR  0.72 
+            heated_charge            HEAT  0.90 
+             hollow_point              BD -0.15              CM  0.60 
+            hornet_strike              BD  2.20 
+     hydraulic_crosshairs              CC  1.35 
+                ice_storm            COLD  0.40             MAG  0.40 
+                     jolt     ELECTRICITY  0.60              SC  0.60 
+           lethal_torrent              MS  0.60              FR  0.60 
+             magnum_force              BD  1.65 
+                     maim           SLASH  1.20 
+                no_return        PUNCTURE  0.60 
+          pathogen_rounds           TOXIN  0.90 
+          perpetual_agony STATUS_DURATION  0.30 
+            pistol_gambit              CC  1.20 
+        pistol_pestilence           TOXIN  0.60              SC  0.60 
+     pressurized_magazine              FR  0.90 
+      primed_expel_corpus          CORPUS  0.55 
+   primed_expel_corrupted       CORRUPTED  0.55 
+     primed_expel_grineer         GRINEER  0.55 
+    primed_expel_infested        INFESTED  0.55 
+     primed_heated_charge            HEAT  1.65 
+     primed_pistol_gambit              CC  1.87 
+         primed_quickdraw             RLS  0.88 
+     primed_slip_magazine             MAG  0.55 
+    primed_target_cracker              CM  1.10 
+                   pummel          IMPACT  1.20 
+                quickdraw             RLS  0.48 
+               razor_shot           SLASH  0.60 
+                   scorch            HEAT  0.60              SC  0.60 
+        sharpened_bullets              CM  0.75 
+            slip_magazine             MAG  0.30 
+           stunning_speed              SC  0.30             RLS  0.40 
+                sure_shot              SC  0.90 
+             tainted_clip             RLS -0.30             MAG  0.60 
+           target_cracker              CM  0.60 
+                trick_mag            AMMO  0.90 

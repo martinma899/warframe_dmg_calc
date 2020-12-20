@@ -1,0 +1,48 @@
+        accelerated_blast              FR  0.60        PUNCTURE  0.60 
+    amalgam_shotgun_spazz              FR  0.85 
+               ammo_stock             MAG  0.60 
+                    blaze              BD  0.60            HEAT  0.60 
+              blunderbuss              CC  0.90 
+            breach_loader        PUNCTURE  1.20 
+        burdened_magazine             RLS -0.18             MAG  0.60 
+            charged_shell     ELECTRICITY  0.90 
+           chilling_grasp            COLD  0.90 
+          chilling_reload            COLD  0.60             RLS  0.40 
+           cleanse_corpus          CORPUS  0.30 
+        cleanse_corrupted       CORRUPTED  0.30 
+          cleanse_grineer         GRINEER  0.30 
+         cleanse_infested        INFESTED  0.30 
+        contagious_spread           TOXIN  0.90 
+    critical_deceleration              CC  0.48              FR -0.30 
+                disruptor          IMPACT  0.30 
+                flechette        PUNCTURE  0.30 
+           frail_momentum              BD -0.15              FR  0.90 
+             frigid_blast            COLD  0.60              SC  0.60 
+             full_contact          IMPACT  1.20 
+           hell's_chamber              MS  1.20 
+          incendiary_coat            HEAT  0.90 
+              laser_sight              CC  1.20 
+        lingering_torment STATUS_DURATION  0.30 
+              motus_setup              CC  1.00              SC  1.00 
+          nano_applicator              SC  0.90 
+              point_blank              BD  0.90 
+    primed_cleanse_corpus          CORPUS  0.55 
+ primed_cleanse_corrupted       CORRUPTED  0.55 
+   primed_cleanse_grineer         GRINEER  0.55 
+  primed_cleanse_infested        INFESTED  0.55 
+     primed_charged_shell     ELECTRICITY  1.65 
+       primed_point_blank              BD  1.65 
+            primed_ravage              CM  1.10 
+                   ravage              CM  0.60 
+       scattering_inferno            HEAT  0.60              SC  0.60 
+             seeking_fury              PT  1.20             RLS  0.15 
+        shell_compression            AMMO  0.90 
+              shell_shock     ELECTRICITY  0.60              SC  0.60 
+            shotgun_savvy              SC  0.90 
+            shotgun_spazz              FR  0.90 
+            shrapnel_shot              CM  0.99 
+                 shredder           SLASH  0.30 
+       sweeping_serration           SLASH  1.20 
+            tactical_pump             RLS  0.30 
+            toxic_barrage           TOXIN  0.60              SC  0.60 
+           vicious_spread              BD  0.90 
