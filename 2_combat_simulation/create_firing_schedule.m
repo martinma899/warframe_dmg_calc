@@ -1,4 +1,4 @@
-function [schedule] = create_firing_schedule(weapon,varargin)
+function [schedule] = create_firing_schedule(weapon,exit_cond, tf, rf, mf)
 %{
 This function produces a firing schedule for a weapon. 
 output "schedule" denotes the times at which shots are fired. 
@@ -21,46 +21,7 @@ It may look something like this:
 2.5 2 2
 ...
 
-input "weapon" is the modded weapon object. 
-input "varagin" specify what is the termination condition for the schedule.
-left blank, the schedule will terminate at 30 seconds or weapon running out
- of ammo, whichever one comes first. exit_cond = 0
-input 'time', <termination time> specifies how long to fire. exit_cond = 1 
-input 'round', <total rounds> specifies how many rounds to fire. exit_cond
-= 2
-input 'magazine', <total magazine> specifies how many magazines to fire.
-exit_cond = 3
-input 'all' specifies termination when weapon is completely out of ammo.
-exit_cond = 4
-
 %}
-
-% determine termination condition
-if isempty(varargin)
-    exit_cond = 0;
-    tf = 30;
-    rf = weapon.AMMO;
-else
-    exit_cond_type = varargin{1};
-    switch exit_cond_type
-        case 'time'
-            exit_cond = 1;
-            tf = varargin{2};
-        case 'round'
-            exit_cond = 2;
-            rf = varargin{2};
-        case 'magazine'
-            exit_cond = 3;
-            mf = varargin{2};
-        case 'all'
-            exit_cond = 4;
-            rf = weapon.AMMO;
-        otherwise
-            exit_cond = 0;
-            tf = 30;
-            rf = weapon.AMMO;
-    end
-end
 
 firing_delay = weapon.BURST_COUNT/weapon.FR; % compute firing delay
 
@@ -98,7 +59,7 @@ while true
         % check exit condition
     switch exit_cond
         case 0
-            if t>=tf||roundc>=rf
+            if t>=tf||roundc>rf
                 break
             end
         case 1 
@@ -106,7 +67,7 @@ while true
                 break
             end
         case 2
-            if roundc>=rf
+            if roundc>rf
                 break
             end
         case 3
@@ -114,7 +75,7 @@ while true
                 break
             end
         case 4 
-            if roundc>=rf
+            if roundc>rf
                 break
             end
     end

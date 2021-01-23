@@ -15,6 +15,7 @@ end
 % make a cell array of field names
 field_names = data(:,1);
 
+% fill data from database to weapon
 for i = 1:numel(field_names)
 wpb.(field_names{i})=data{i,weapon_ind};
 end

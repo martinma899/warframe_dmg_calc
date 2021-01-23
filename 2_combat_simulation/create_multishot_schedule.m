@@ -24,10 +24,6 @@ firing time, round #, magazine #, multishot #,
 schedule = [];
 
 MS = weapon.MS; 
-if MS == 1 %if there's no modification based on multishot
-    schedule = firing_schedule; %output original firing schedule
-    return; % terminate function
-end
 
 for i = 1:size(firing_schedule,1) %iterate through every element of firing schedule
     % roll multishot random variable
