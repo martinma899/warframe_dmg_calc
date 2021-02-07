@@ -1,4 +1,10 @@
-function [mod_array] = read_mod_text_database(database_file_name)
+function [mod_array_out] = read_mod_text_database(mod_names,database_file_name)
+% extracts desired mods objects from a specified mod text database. 
+% mod_names: a cell array of mod names as strings. Mod names must be
+% consistent with those in the mod text database used. 
+% database_file_name: a string, the name of the mod text database file
+
+% mod_array_out: the cell array of the selected mod objects. 
 
 %{
 This function is an attempt at remaking how mod database is stored and
@@ -19,10 +25,9 @@ Basically space delimits within a line and new line delimits a new mod.
 If this sign is found in a line, the rest of the line is not read by the
 code. 
 If first character of a line is "%" then the entire line is skipped. 
-
 %}
 
-mod_array = []; % initialize mod array as an empty cell array.
+mod_library = []; % initialize mod library as an empty cell array.
 
 % open mod database file
 fid = fopen(database_file_name,'r');
@@ -54,10 +59,34 @@ while line~=-1 % while we have not run out of lines to read
     end
     
     % put mod into mod_array
-    mod_array = [mod_array {mod}];
+    mod_library = [mod_library {mod}];
     % get new line
     line = fgetl(fid);
 end
 
+% now all mods from the library are extracted, find the ones we need
+% if "mod_names" is 'all_mods'
+if ischar(mod_names)&&strcmp(mod_names,'all_mods')
+    % then output the entire library
+    mod_array_out = mod_library;
+else % otherwise, output the selected mods
+mod_array_out = []; % initialize output mod array
+% iterate through each input mod name
+for i = 1:numel(mod_names)
+    this_mod_name = mod_names{i};
+    mod_found_flag = false; % set mod_found_flag to indicate whether this mod name exists in the database or not
+    for j = 1:numel(mod_library)
+        this_mod_from_library = mod_library{j};
+        if strcmp(this_mod_from_library.name,this_mod_name)
+            mod_array_out = [mod_array_out {this_mod_from_library}];
+            mod_found_flag = true;
+            break;
+        end
+    end
+    if ~mod_found_flag
+        error('mod %s not found in database',this_mod_name);
+    end
+end
+end
 
 end

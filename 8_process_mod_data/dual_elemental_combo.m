@@ -1,41 +1,41 @@
 function out = dual_elemental_combo (in)
-if strcmp(in{1},'cold')
-  if strcmp(in{2},'electricity')
-    out = 'magnetic';
-  elseif strcmp(in{2},'toxin')
-    out = 'viral';
-  elseif strcmp(in{2},'heat')
-    out = 'blast';
+if strcmp(in{1},'COLD')
+  if strcmp(in{2},'ELECTRICITY')
+    out = 'MAGNETIC';
+  elseif strcmp(in{2},'TOXIN')
+    out = 'VIRAL';
+  elseif strcmp(in{2},'HEAT')
+    out = 'BLAST';
   else
     error('incorrect elemental input types for elemental combo')
   end
-elseif strcmp(in{1},'electricity')
-  if strcmp(in{2},'cold')
-    out = 'magnetic';
-  elseif strcmp(in{2},'toxin')
-    out = 'corrosive';
-  elseif strcmp(in{2},'heat')
-    out = 'radiation';
+elseif strcmp(in{1},'ELECTRICITY')
+  if strcmp(in{2},'COLD')
+    out = 'MAGNETIC';
+  elseif strcmp(in{2},'TOXIN')
+    out = 'CORROSIVE';
+  elseif strcmp(in{2},'HEAT')
+    out = 'RADIATION';
   else
     error('incorrect elemental input types for elemental combo')
   end
-elseif strcmp(in{1},'toxin')
-  if strcmp(in{2},'cold')
-    out = 'viral';
-  elseif strcmp(in{2},'electricity')
-    out = 'corrosive';
-  elseif strcmp(in{2},'heat')
-    out = 'gas';
+elseif strcmp(in{1},'TOXIN')
+  if strcmp(in{2},'COLD')
+    out = 'VIRAL';
+  elseif strcmp(in{2},'ELECTRICITY')
+    out = 'CORROSIVE';
+  elseif strcmp(in{2},'HEAT')
+    out = 'GAS';
   else
     error('incorrect elemental input types for elemental combo')
   end
-elseif strcmp(in{1},'heat')
-  if strcmp(in{2},'cold')
-    out = 'blast';
-  elseif strcmp(in{2},'electricity')
-    out = 'radiation';
-  elseif strcmp(in{2},'toxin')
-    out = 'gas';
+elseif strcmp(in{1},'HEAT')
+  if strcmp(in{2},'COLD')
+    out = 'BLAST';
+  elseif strcmp(in{2},'ELECTRICITY')
+    out = 'RADIATION';
+  elseif strcmp(in{2},'TOXIN')
+    out = 'GAS';
   else
     error('incorrect elemental input types for elemental combo')
   end

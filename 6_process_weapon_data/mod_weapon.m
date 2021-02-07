@@ -18,9 +18,9 @@ mtplr_names = {'BD' 'FR' 'CH' 'MAG' 'AMMO' 'RLS' 'CC' 'CM' 'SC' 'MS' 'SD'...
 % numerical array keeping track of all corresponding numerical total
 % multipliers
 mtplr_values = zeros(1,numel(mtplr_names));
+
 % an array with four elemental name strings
 mtplr_elemental_arr = {'cold' 'electricity' 'heat' 'toxin'};
-
 all_elemental_fieldnames = {'cold' 'electricity' 'heat' 'toxin' 'blast' ...
   'corrosive' 'gas' 'magnetic' 'radiation' 'viral'};
 
