@@ -3,9 +3,10 @@
                augur_pact              BD  0.90 
              augur_seeker STATUS_DURATION  0.30 
          barrel_diffusion              MS  1.20 
+     galvanized_diffision              MS  2.30
                      bore        PUNCTURE  1.20 
         concussion_rounds          IMPACT  0.60 
-        creeping_bullseye              CC  0.48              FR -0.36 
+        creeping_bullseye              CC  2.00              FR -0.20 
               deep_freeze            COLD  0.90 
        embedded_catalyzer              SC  0.90 
              expel_corpus          CORPUS  0.30 
@@ -46,6 +47,7 @@
             slip_magazine             MAG  0.30 
            stunning_speed              SC  0.30             RLS  0.40 
                 sure_shot              SC  0.90 
+          galvanized_shot              SC  0.80              BD  1.20
              tainted_clip             RLS -0.30             MAG  0.60 
            target_cracker              CM  0.60 
                 trick_mag            AMMO  0.90 

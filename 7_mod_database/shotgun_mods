@@ -13,13 +13,14 @@
           cleanse_grineer         GRINEER  0.30 
          cleanse_infested        INFESTED  0.30 
         contagious_spread           TOXIN  0.90 
-    critical_deceleration              CC  0.48              FR -0.30 
+    critical_deceleration              CC  2.00              FR -0.20 
                 disruptor          IMPACT  0.30 
                 flechette        PUNCTURE  0.30 
            frail_momentum              BD -0.15              FR  0.90 
              frigid_blast            COLD  0.60              SC  0.60 
              full_contact          IMPACT  1.20 
            hell's_chamber              MS  1.20 
+          galvanized_hell              MS  2.30
           incendiary_coat            HEAT  0.90 
               laser_sight              CC  1.20 
         lingering_torment STATUS_DURATION  0.30 
@@ -39,6 +40,7 @@
         shell_compression            AMMO  0.90 
               shell_shock     ELECTRICITY  0.60              SC  0.60 
             shotgun_savvy              SC  0.90 
+         galvanized_savvy              SC  0.80              BD  0.80
             shotgun_spazz              FR  0.90 
             shrapnel_shot              CM  0.99 
                  shredder           SLASH  0.30 

@@ -9,16 +9,14 @@ mods = read_mod_text_database(mod_names,'rifle_mods');
     = combine_mods(mods)
 
 %% read in weapon
-lenz = read_weapon_xlsx('lenz')
+lenz = read_weapon_xlsx_v2('quartakk','kuva max toxin',[],'rifles')
 
 %% mod weapon
-[lenz] = mod_weapon3(lenz,mod,elemental_names, elemental_modifiers,false)
+% [lenz] = mod_weapon3(lenz,mod,elemental_names, elemental_modifiers,false)
 
 %% extract an enemy
 enemy = read_enemy_xlsx('comba','fog','')
-figure(1); hold on ;
 
-semilogx(i,enemy_out.armor,'y.');
 
 
 %% clean up
