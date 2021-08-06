@@ -36,24 +36,41 @@ for i = 1:numel(mods) % iterate through every mod
     fields_of_this_mod = fieldnames(this_mod); % get field names of this mod
     for j = 1:numel(fields_of_this_mod) % iterate through every field this mod has
         this_field_name = fields_of_this_mod{j};
-        % first check if this is an elemental stat
-        if any(strcmp(this_field_name,all_elemental_names))
-            % if this is an elemental stat
-            % put the elemental name in elemenal_names
-            elemental_names = [elemental_names {this_field_name}];
-            % put the elemental stat in elemental_modifiers
-            elemental_modifiers = [elemental_modifiers this_mod.(this_field_name)];
-        else
-            if any(strcmp(this_field_name,fields_of_big_mod))
-                % if this stat is already logged by the big mod
-                % then add this stat to it
-                mod_rest_of_stats_combined.(this_field_name) = ...
+        % for category and designation fields, make them arrays to keep
+        % track of where the mods came from.
+
+
+          % first check if this is an elemental stat
+          if any(strcmp(this_field_name,all_elemental_names))
+              % if this is an elemental stat
+              % put the elemental name in elemenal_names
+              elemental_names = [elemental_names {this_field_name}];
+              % put the elemental stat in elemental_modifiers
+              elemental_modifiers = [elemental_modifiers this_mod.(this_field_name)];
+          end
+          if any(strcmp(this_field_name,fields_of_big_mod))
+            % if this stat is already logged by the big mod
+            % then add this stat to it
+            if strcmp(this_field_name,'category')
+              mod_rest_of_stats_combined.(this_field_name) = ...
+                [mod_rest_of_stats_combined.(this_field_name) this_mod.(this_field_name)];
+            elseif strcmp(this_field_name,'designation')
+              mod_rest_of_stats_combined.(this_field_name) = ...
+                [mod_rest_of_stats_combined.(this_field_name) {this_mod.(this_field_name)}];
+            else
+              mod_rest_of_stats_combined.(this_field_name) = ...
                 mod_rest_of_stats_combined.(this_field_name)+this_mod.(this_field_name);
-            else % if this stat is not logged
-                % add the new stat to the mod
-                mod_rest_of_stats_combined.(this_field_name) = this_mod.(this_field_name);
             end
-        end
+          else % if this stat is not logged
+            % add the new stat to the mod
+            if strcmp(this_field_name,'designation')
+              mod_rest_of_stats_combined.(this_field_name) = {num2str(this_mod.(this_field_name))};
+            else
+              mod_rest_of_stats_combined.(this_field_name) = this_mod.(this_field_name);
+            end
+          end
+          
+
     end
 end
 
